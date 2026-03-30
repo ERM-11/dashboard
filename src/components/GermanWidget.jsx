@@ -31,7 +31,7 @@ function getCompletedDates() {
   catch { return [] }
 }
 function addCompletedDate() {
-  const today = new Date().toISOString().split('T')[0]
+  const today = toISO(new Date())
   const dates = getCompletedDates()
   if (!dates.includes(today)) {
     localStorage.setItem('dashboard_germanDates', JSON.stringify([...dates, today]))
@@ -46,8 +46,8 @@ function getStreak() {
   } catch { return { count: 0, lastDate: null } }
 }
 function updateStreak() {
-  const today     = new Date().toISOString().split('T')[0]
-  const yesterday = new Date(Date.now() - 86400000).toISOString().split('T')[0]
+  const today     = toISO(new Date())
+  const yesterday = toISO(new Date(Date.now() - 86400000))
   const streak = getStreak()
   if (streak.lastDate === today) return streak.count
   const newCount = streak.lastDate === yesterday ? streak.count + 1 : 1
@@ -68,7 +68,12 @@ function getCurrentWeek() {
     return d
   })
 }
-function toISO(d) { return d.toISOString().split('T')[0] }
+function toISO(d) {
+  const yr  = d.getFullYear()
+  const mo  = String(d.getMonth() + 1).padStart(2, '0')
+  const day = String(d.getDate()).padStart(2, '0')
+  return `${yr}-${mo}-${day}`
+}
 
 // ── Umlaut normalisation ───────────────────────────────────────────────────
 // Converts ae/oe/ue/ss substitutes to their umlaut equivalents so that

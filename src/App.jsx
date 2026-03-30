@@ -128,7 +128,8 @@ export default function App() {
             </span>
             <button
               onClick={() => setDarkMode(d => !d)}
-              className="rounded-lg border border-slate-700 bg-slate-800 px-3 py-1.5 text-xs text-slate-400 hover:bg-slate-700 hover:text-slate-300 transition-all"
+              className="rounded-lg border border-slate-700 bg-slate-800 px-4 min-h-[44px] flex items-center text-xs text-slate-400 hover:bg-slate-700 hover:text-slate-300 transition-all"
+              style={{ touchAction: 'manipulation' }}
               aria-label="Toggle dark/light mode"
             >
               {darkMode ? '☀️ Light' : '🌙 Dark'}

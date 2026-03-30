@@ -5,6 +5,7 @@ const THRESHOLDS = {
   grass_pollen:    { low: 20, high: 80 },
   birch_pollen:    { low: 20, high: 80 },
   alder_pollen:    { low: 10, high: 50 },
+  olive_pollen:    { low: 10, high: 50 },
   ragweed_pollen:  { low: 10, high: 50 },
   mugwort_pollen:  { low: 10, high: 50 },
 }
@@ -13,9 +14,16 @@ const LABELS = {
   grass_pollen:   'Grass',
   birch_pollen:   'Birch',
   alder_pollen:   'Alder',
+  olive_pollen:   'Olive',
   ragweed_pollen: 'Ragweed',
   mugwort_pollen: 'Mugwort',
 }
+
+// Display order for individual rows
+const DISPLAY_ORDER = ['grass_pollen', 'birch_pollen', 'alder_pollen', 'olive_pollen', 'ragweed_pollen', 'mugwort_pollen']
+
+// Tree pollen types aggregated into the summary row
+const TREE_TYPES = ['birch_pollen', 'alder_pollen', 'olive_pollen']
 
 function getLevel(type, value) {
   if (value === null || value === undefined) return { level: 'N/A', color: 'bg-slate-600 text-slate-300' }
@@ -36,17 +44,20 @@ const REFRESH_INTERVAL = 15 * 60 * 1000
 const POLLEN_API =
   `https://air-quality-api.open-meteo.com/v1/air-quality` +
   `?latitude=${LOCATION.latitude}&longitude=${LOCATION.longitude}` +
-  `&current=grass_pollen,birch_pollen,alder_pollen,ragweed_pollen,mugwort_pollen`
+  `&current=grass_pollen,birch_pollen,alder_pollen,olive_pollen,ragweed_pollen,mugwort_pollen`
 
 export default function PollenWidget() {
   const { data, loading, error, lastUpdated, refresh: fetchData } = useFetchData(POLLEN_API, REFRESH_INTERVAL)
 
-  const pollenTypes = Object.keys(THRESHOLDS)
-
+  let treePollen = null
   let overallLevel = null
   if (data?.current) {
-    const levels = pollenTypes.map(t => getLevel(t, data.current[t]))
-    overallLevel = levels.reduce((best, curr) =>
+    const treeLevels = TREE_TYPES.map(t => getLevel(t, data.current[t]))
+    treePollen = treeLevels.reduce((best, curr) =>
+      levelRank(curr.level) > levelRank(best.level) ? curr : best
+    )
+    const allLevels = DISPLAY_ORDER.map(t => getLevel(t, data.current[t]))
+    overallLevel = allLevels.reduce((best, curr) =>
       levelRank(curr.level) > levelRank(best.level) ? curr : best
     )
   }
@@ -89,16 +100,19 @@ export default function PollenWidget() {
 
       {!loading && !error && data?.current && (
         <>
-          {overallLevel && (
-            <div className="flex items-center justify-between bg-slate-700/50 rounded-lg px-3 py-2">
-              <span className="text-sm font-semibold text-slate-200">Overall</span>
-              <span className={`px-2 py-0.5 rounded-full text-xs font-bold ${overallLevel.color}`}>
-                {overallLevel.level}
+          {/* Tree Pollen summary row */}
+          {treePollen && (
+            <div className="flex items-center justify-between border-l-2 border-green-600/60 pl-2.5 py-0.5">
+              <span className="text-sm font-semibold text-slate-200">Tree Pollen</span>
+              <span className={`px-2 py-0.5 rounded-full text-xs font-bold ${treePollen.color}`}>
+                {treePollen.level}
               </span>
             </div>
           )}
+
+          {/* Individual pollen types */}
           <div className="space-y-1.5">
-            {pollenTypes.map(type => {
+            {DISPLAY_ORDER.map(type => {
               const value = data.current[type]
               const { level, color } = getLevel(type, value)
               return (
@@ -116,6 +130,17 @@ export default function PollenWidget() {
               )
             })}
           </div>
+
+          {/* Overall — worst across all types */}
+          {overallLevel && (
+            <div className="flex items-center justify-between bg-slate-700/50 rounded-lg px-3 py-2 mt-1">
+              <span className="text-sm font-semibold text-slate-200">Overall</span>
+              <span className={`px-2 py-0.5 rounded-full text-xs font-bold ${overallLevel.color}`}>
+                {overallLevel.level}
+              </span>
+            </div>
+          )}
+
           {lastUpdated && (
             <p className="text-xs text-slate-500 text-right">
               Updated {lastUpdated.toLocaleTimeString('en-GB', { hour: '2-digit', minute: '2-digit' })}

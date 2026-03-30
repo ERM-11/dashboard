@@ -16,7 +16,10 @@ const DIFFICULTY_COLORS = { easy: '#22c55e', medium: '#f59e0b', hard: '#ef4444' 
 const SPACED_INTERVALS = [1, 3, 7, 14, 30] // days
 
 // ── localStorage helpers ──────────────────────────────────────────────────────
-const today = () => new Date().toISOString().split('T')[0]
+function today() {
+  const d = new Date()
+  return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`
+}
 
 function load(key, fallback) {
   try { return JSON.parse(localStorage.getItem(key) ?? 'null') ?? fallback }
@@ -165,6 +168,7 @@ export default function CIMAWidget() {
   const oStats = overallStats(attempts)
   const dailyQ = getDailyQuestion(activeModule)
   const isDailyQ = currentQ?.id === dailyQ?.id
+  const isDailyDone = !!dailyCompleted[today()]?.[activeModule]
   const reviewDue = useMemo(() => {
     const t = today()
     return reviewQueue.filter(item => {
@@ -181,15 +185,21 @@ export default function CIMAWidget() {
   }
 
   function loadQuestion(mode = questionMode, mod = activeModule) {
+    setQuestionMode(mode)
+    if (mode === 'daily') {
+      // If today's daily for this module is already done, just switch mode —
+      // the render will show the completion state instead of a new question.
+      const dc = loadDailyCompleted()
+      if (dc[today()]?.[mod]) return
+    }
     setSelectedAnswer(null)
     setShowExplanation(false)
-    setQuestionMode(mode)
     const att = loadAttempts()
     let q = null
-    if (mode === 'daily')   q = getDailyQuestion(mod)
+    if (mode === 'daily')        q = getDailyQuestion(mod)
     else if (mode === 'review')  q = pickReview(loadReviewQueue())
     else if (mode === 'weakest') q = pickWeakest(mod, att)
-    else q = pickRandom(mod, att, [])
+    else                         q = pickRandom(mod, att, [])
     setCurrentQ(q)
   }
 
@@ -357,7 +367,19 @@ export default function CIMAWidget() {
         </div>
       </div>
 
+      {/* ── Section 2: Daily completion state ── */}
+      {questionMode === 'daily' && isDailyDone && (
+        <div className="rounded-xl p-5 flex flex-col items-center gap-2 border text-center"
+          style={{ background: 'rgba(34,197,94,0.05)', borderColor: 'rgba(34,197,94,0.2)' }}>
+          <span className="text-3xl">⭐</span>
+          <p className="text-sm font-semibold text-green-400">Daily Challenge complete!</p>
+          <p className="text-xs text-slate-400">{activeModule} · {today()}</p>
+          <p className="text-xs text-slate-500 mt-1">Come back tomorrow for a new question.</p>
+        </div>
+      )}
+
       {/* ── Section 2: Question card ── */}
+      {!(questionMode === 'daily' && isDailyDone) && (
       <div className="rounded-xl p-4 flex flex-col gap-3 border"
         style={{ background: 'rgba(255,255,255,0.025)', borderColor: 'rgba(255,255,255,0.07)' }}>
 
@@ -374,7 +396,7 @@ export default function CIMAWidget() {
             ● {currentQ.difficulty}
           </span>
           {isDailyQ && (
-            <span className="text-xs text-amber-400 ml-auto">⭐ Daily</span>
+            <span className="text-xs text-amber-400 ml-auto">⭐ Daily Challenge — {today()}</span>
           )}
         </div>
 
@@ -456,15 +478,16 @@ export default function CIMAWidget() {
           </button>
         )}
       </div>
+      )}
 
       {/* ── Section 3: Controls ── */}
       <div className="flex flex-col gap-3">
         <div className="grid grid-cols-3 gap-2">
           {[
-            { label: 'Random',       mode: 'random',  always: true },
-            { label: `Review${reviewDue > 0 ? ` (${reviewDue})` : ''}`,
-              mode: 'review',  always: false, disabled: reviewDue === 0, title: reviewDue === 0 ? 'No questions due for review' : undefined },
-            { label: 'Weakest',      mode: 'weakest', always: true },
+            { label: 'Practice',      mode: 'random',  disabled: false },
+            { label: reviewDue > 0 ? `Review Mistakes (${reviewDue})` : 'Review Mistakes',
+              mode: 'review',  disabled: reviewDue === 0, title: reviewDue === 0 ? 'No questions due for review' : undefined },
+            { label: 'Weak Topics',   mode: 'weakest', disabled: false },
           ].map(({ label, mode, disabled, title }) => (
             <button key={mode}
               onClick={() => !disabled && loadQuestion(mode)}
@@ -482,14 +505,22 @@ export default function CIMAWidget() {
           ))}
         </div>
 
-        {/* Daily question button */}
-        <button onClick={() => loadQuestion('daily')}
-          className="py-1.5 rounded-lg text-xs font-medium border transition-colors w-full"
-          style={questionMode === 'daily'
-            ? { background: 'rgba(245,158,11,0.12)', color: '#fcd34d', borderColor: 'rgba(245,158,11,0.3)' }
-            : { background: 'transparent', color: '#78716c', borderColor: '#292524' }
+        {/* Daily Challenge button */}
+        <button
+          onClick={() => !isDailyDone && loadQuestion('daily')}
+          disabled={isDailyDone}
+          className="py-2 rounded-lg text-xs font-medium border transition-colors w-full flex flex-col items-center gap-0.5"
+          style={
+            isDailyDone
+              ? { background: 'rgba(34,197,94,0.08)', color: '#4ade80', borderColor: 'rgba(34,197,94,0.25)', cursor: 'default' }
+              : questionMode === 'daily'
+                ? { background: 'rgba(245,158,11,0.12)', color: '#fcd34d', borderColor: 'rgba(245,158,11,0.3)' }
+                : { background: 'transparent', color: '#78716c', borderColor: '#292524' }
           }>
-          ⭐ Daily Question
+          <span>{isDailyDone ? `✓ Daily Challenge — ${activeModule} done` : '⭐ Daily Challenge'}</span>
+          <span className="text-[10px] opacity-60">
+            {isDailyDone ? 'Come back tomorrow' : 'One new question per day per module'}
+          </span>
         </button>
 
         {/* Study history (collapsible) */}
