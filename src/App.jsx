@@ -1,4 +1,5 @@
 import { useState, useEffect, useRef } from 'react'
+// Dark-only dashboard — no light mode toggle
 import { migrateStorage } from './utils/migrateStorage'
 import ErrorBoundary from './components/ErrorBoundary'
 import WeatherWidget from './components/WeatherWidget'
@@ -45,10 +46,6 @@ function loadOrder() {
 }
 
 export default function App() {
-  const [darkMode, setDarkMode] = useState(() => {
-    const stored = localStorage.getItem('dashboard_darkMode')
-    return stored === null ? true : stored === 'true'
-  })
   const [now, setNow] = useState(new Date())
   const [order, setOrder] = useState(loadOrder)
 
@@ -56,11 +53,6 @@ export default function App() {
   const dragSrc  = useRef(null)
   const dragOver = useRef(null)
   const [dropTarget, setDropTarget] = useState(null)
-
-  useEffect(() => {
-    document.documentElement.classList.toggle('dark', darkMode)
-    localStorage.setItem('dashboard_darkMode', darkMode)
-  }, [darkMode])
 
   useEffect(() => {
     const id = setInterval(() => setNow(new Date()), 1000)
@@ -126,14 +118,6 @@ export default function App() {
               <span className="text-slate-700">·</span>
               <span className="font-mono text-slate-300 tabular-nums">{timeStr}</span>
             </span>
-            <button
-              onClick={() => setDarkMode(d => !d)}
-              className="rounded-lg border border-slate-700 bg-slate-800 px-4 min-h-[44px] flex items-center text-xs text-slate-400 hover:bg-slate-700 hover:text-slate-300 transition-all"
-              style={{ touchAction: 'manipulation' }}
-              aria-label="Toggle dark/light mode"
-            >
-              {darkMode ? '☀️ Light' : '🌙 Dark'}
-            </button>
           </div>
         </div>
         {/* Gradient accent line */}
