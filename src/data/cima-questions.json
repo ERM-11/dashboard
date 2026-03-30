@@ -1,0 +1,2810 @@
+{
+  "BA1": [
+    {
+      "id": "BA1-001",
+      "topic": "Macroeconomic Environment",
+      "difficulty": "easy",
+      "question": "During which phase of the business cycle does unemployment typically reach its highest level?",
+      "options": {
+        "A": "Expansion",
+        "B": "Peak",
+        "C": "Trough",
+        "D": "Recovery"
+      },
+      "correct": "C",
+      "explanation": "The trough is the lowest point of economic activity, where output is minimal and unemployment peaks. The peak marks the top of the cycle before decline begins — a common distractor — but unemployment tends to lag and is still rising at the peak."
+    },
+    {
+      "id": "BA1-002",
+      "topic": "Macroeconomic Environment",
+      "difficulty": "medium",
+      "question": "Which of the following is NOT a component of GDP measured using the expenditure approach?",
+      "options": {
+        "A": "Government expenditure on goods and services",
+        "B": "Net exports",
+        "C": "Transfer payments such as welfare benefits",
+        "D": "Gross fixed capital formation"
+      },
+      "correct": "C",
+      "explanation": "Transfer payments do not represent production of goods or services and are therefore excluded from GDP. Gross fixed capital formation (business investment) is a core expenditure component alongside consumption, government spending, and net exports."
+    },
+    {
+      "id": "BA1-003",
+      "topic": "Macroeconomic Environment",
+      "difficulty": "medium",
+      "question": "Cost-push inflation is most likely caused by:",
+      "options": {
+        "A": "Excess growth in the money supply",
+        "B": "A significant rise in consumer confidence",
+        "C": "A large increase in oil prices",
+        "D": "A reduction in income tax rates"
+      },
+      "correct": "C",
+      "explanation": "Cost-push inflation arises from supply-side shocks that raise production costs — an oil price spike is the classic example. Excess money supply growth and rising consumer confidence drive demand-pull inflation, not cost-push."
+    },
+    {
+      "id": "BA1-004",
+      "topic": "Macroeconomic Environment",
+      "difficulty": "medium",
+      "question": "Which of the following is a key difference between CPI and RPI in the UK?",
+      "options": {
+        "A": "CPI includes mortgage interest payments; RPI does not",
+        "B": "RPI includes mortgage interest payments; CPI does not",
+        "C": "CPI measures price levels; RPI measures the rate of inflation",
+        "D": "RPI is the Bank of England's official inflation target measure"
+      },
+      "correct": "B",
+      "explanation": "RPI includes housing costs such as mortgage interest payments, which is why it typically sits above CPI. The Bank of England targets CPI at 2%, not RPI — a common source of confusion."
+    },
+    {
+      "id": "BA1-005",
+      "topic": "Macroeconomic Environment",
+      "difficulty": "hard",
+      "question": "When a central bank conducts quantitative easing, it primarily:",
+      "options": {
+        "A": "Raises the benchmark interest rate to reduce inflation",
+        "B": "Purchases government bonds from commercial banks to expand money supply",
+        "C": "Reduces the reserve requirement ratio for commercial banks",
+        "D": "Issues new currency to directly finance government expenditure"
+      },
+      "correct": "B",
+      "explanation": "QE involves the central bank purchasing financial assets — typically government bonds — from commercial banks, increasing bank reserves and the broader money supply. Directly financing government spending via money creation is monetary financing, which is a distinct and generally prohibited practice."
+    },
+    {
+      "id": "BA1-006",
+      "topic": "Macroeconomic Environment",
+      "difficulty": "easy",
+      "question": "Which of the following is an example of expansionary fiscal policy?",
+      "options": {
+        "A": "The central bank raises its base interest rate",
+        "B": "The government reduces public expenditure on health services",
+        "C": "The government increases income tax rates",
+        "D": "The government increases spending on infrastructure projects"
+      },
+      "correct": "D",
+      "explanation": "Expansionary fiscal policy stimulates aggregate demand by increasing government spending or reducing taxes. Raising interest rates is monetary policy; reducing spending or raising taxes are contractionary fiscal measures."
+    },
+    {
+      "id": "BA1-007",
+      "topic": "Macroeconomic Environment",
+      "difficulty": "medium",
+      "question": "A government budget deficit occurs when:",
+      "options": {
+        "A": "Total tax revenues exceed total government expenditure in a period",
+        "B": "Total government expenditure exceeds total tax revenues in a period",
+        "C": "The current account of the balance of payments is in deficit",
+        "D": "National debt exceeds 60% of GDP"
+      },
+      "correct": "B",
+      "explanation": "A budget deficit is a flow concept: government spending exceeds tax revenues in the period, requiring borrowing. The current account deficit is a balance of payments measure, not a fiscal one — a common mix-up."
+    },
+    {
+      "id": "BA1-008",
+      "topic": "Macroeconomic Environment",
+      "difficulty": "medium",
+      "question": "GDP is best described as:",
+      "options": {
+        "A": "The total income earned by a country's residents, regardless of where they work",
+        "B": "The market value of all final goods and services produced within a country's borders in a given period",
+        "C": "The total value of all goods traded internationally by a country",
+        "D": "The sum of all intermediate and final goods produced domestically"
+      },
+      "correct": "B",
+      "explanation": "GDP measures final goods and services produced within a country's geographic borders. GNP/GNI measures output by a country's residents regardless of location. Including intermediate goods would double-count production."
+    },
+    {
+      "id": "BA1-009",
+      "topic": "Macroeconomic Environment",
+      "difficulty": "hard",
+      "question": "A rise in the central bank's policy interest rate most directly dampens aggregate demand by:",
+      "options": {
+        "A": "Directly reducing export volumes to trading partners",
+        "B": "Increasing household disposable income through higher savings returns",
+        "C": "Raising the cost of borrowing, reducing consumer spending and business investment",
+        "D": "Automatically reducing the government's budget deficit"
+      },
+      "correct": "C",
+      "explanation": "Higher interest rates transmit to aggregate demand primarily through the borrowing cost channel: credit becomes more expensive, suppressing consumption and investment. The exchange rate channel also operates (stronger currency reduces exports), but the borrowing cost mechanism is the primary direct route."
+    },
+    {
+      "id": "BA1-010",
+      "topic": "Macroeconomic Environment",
+      "difficulty": "easy",
+      "question": "Demand-pull inflation is most likely to occur when:",
+      "options": {
+        "A": "A major input commodity such as energy becomes scarce",
+        "B": "Consumer confidence is low and unemployment is rising",
+        "C": "Aggregate demand grows faster than the economy's productive capacity",
+        "D": "The government reduces public sector wages"
+      },
+      "correct": "C",
+      "explanation": "Demand-pull inflation results from excess aggregate demand pressing against supply capacity, typically during an economic boom. A supply-side shortage (e.g., energy scarcity) causing cost increases is cost-push inflation, not demand-pull."
+    },
+    {
+      "id": "BA1-011",
+      "topic": "Microeconomic Environment",
+      "difficulty": "easy",
+      "question": "Which of the following would cause a rightward shift in the demand curve for a normal good?",
+      "options": {
+        "A": "A fall in the price of the good itself",
+        "B": "An increase in consumer income",
+        "C": "A rise in the price of a complementary good",
+        "D": "An improvement in production technology"
+      },
+      "correct": "B",
+      "explanation": "An increase in income raises demand for normal goods at every price level, shifting the demand curve rightward. A fall in the good's own price causes a movement along the curve (not a shift), and technology improvements shift the supply curve."
+    },
+    {
+      "id": "BA1-012",
+      "topic": "Microeconomic Environment",
+      "difficulty": "medium",
+      "question": "If a 10% rise in price leads to a 15% fall in quantity demanded, the price elasticity of demand is:",
+      "options": {
+        "A": "-0.67 (inelastic)",
+        "B": "-1.5 (elastic)",
+        "C": "+1.5 (elastic)",
+        "D": "-1.0 (unit elastic)"
+      },
+      "correct": "B",
+      "explanation": "PED = % change in Qd / % change in price = -15% / 10% = -1.5. An absolute value above 1 confirms elastic demand. Option C is wrong because PED is negative for a normal good — a price rise reduces quantity demanded."
+    },
+    {
+      "id": "BA1-013",
+      "topic": "Microeconomic Environment",
+      "difficulty": "medium",
+      "question": "Which market structure is characterised by many sellers, homogeneous products, and no barriers to entry or exit?",
+      "options": {
+        "A": "Monopolistic competition",
+        "B": "Oligopoly",
+        "C": "Perfect competition",
+        "D": "Monopoly"
+      },
+      "correct": "C",
+      "explanation": "Perfect competition requires many buyers and sellers, identical (homogeneous) products, and free entry and exit. Monopolistic competition is the common distractor: it also has many sellers and free entry but features product differentiation."
+    },
+    {
+      "id": "BA1-014",
+      "topic": "Microeconomic Environment",
+      "difficulty": "hard",
+      "question": "The kinked demand curve model of oligopoly predicts price rigidity because:",
+      "options": {
+        "A": "Firms in an oligopoly collude to fix prices through formal agreements",
+        "B": "Rivals match price cuts but ignore price rises, making demand elastic above and inelastic below the current price",
+        "C": "Rivals ignore price cuts but match price rises",
+        "D": "Governments regulate prices in oligopolistic industries"
+      },
+      "correct": "B",
+      "explanation": "In the kinked demand curve model, rivals follow price reductions (making demand inelastic below the kink) but do not follow price increases (making demand elastic above). This asymmetry creates a discontinuity in the marginal revenue curve, producing price stickiness at the kink."
+    },
+    {
+      "id": "BA1-015",
+      "topic": "Microeconomic Environment",
+      "difficulty": "medium",
+      "question": "A factory that emits pollution, imposing uncompensated costs on local residents, is an example of:",
+      "options": {
+        "A": "A positive externality in production",
+        "B": "A negative externality in production",
+        "C": "A public good problem",
+        "D": "Information asymmetry between buyers and sellers"
+      },
+      "correct": "B",
+      "explanation": "A negative production externality occurs when social costs exceed private costs — the factory bears production costs but imposes pollution costs on third parties without compensation. A public good involves non-excludability and non-rivalry, which is a separate market failure category."
+    },
+    {
+      "id": "BA1-016",
+      "topic": "Microeconomic Environment",
+      "difficulty": "medium",
+      "question": "Supply is likely to be more price elastic when:",
+      "options": {
+        "A": "Firms are operating at full productive capacity",
+        "B": "Raw materials are scarce and difficult to substitute",
+        "C": "Producers have a long time period in which to adjust output",
+        "D": "The product requires highly specialised labour"
+      },
+      "correct": "C",
+      "explanation": "Supply elasticity increases with time because producers can adjust capacity, source inputs, and enter or exit the market. Operating at full capacity, facing scarce inputs, or depending on specialised labour all reduce responsiveness and make supply inelastic."
+    },
+    {
+      "id": "BA1-017",
+      "topic": "Microeconomic Environment",
+      "difficulty": "easy",
+      "question": "Which of the following best describes a public good?",
+      "options": {
+        "A": "A good provided exclusively by the government",
+        "B": "A good that is non-excludable and non-rival in consumption",
+        "C": "A good with significant positive externalities for society",
+        "D": "A good where production costs fall as output rises"
+      },
+      "correct": "B",
+      "explanation": "Public goods are non-excludable (you cannot prevent non-payers from consuming) and non-rival (one person's consumption does not reduce availability to others). Government provision is common but not the defining characteristic — some public goods are privately provided."
+    },
+    {
+      "id": "BA1-018",
+      "topic": "Microeconomic Environment",
+      "difficulty": "hard",
+      "question": "In the used car market, sellers know more about vehicle quality than buyers. This information asymmetry leads to:",
+      "options": {
+        "A": "Adverse selection, where low-quality cars come to dominate the market",
+        "B": "Moral hazard, where sellers underinvest in vehicle maintenance",
+        "C": "A positive externality benefiting buyers of high-quality cars",
+        "D": "Monopolistic competition among informed sellers"
+      },
+      "correct": "A",
+      "explanation": "Akerlof's 'market for lemons' shows that information asymmetry causes adverse selection: buyers, unable to verify quality, offer average prices that drive quality sellers out, leaving a disproportionate share of defective vehicles. Moral hazard concerns post-contractual behaviour change, not the pre-market selection problem."
+    },
+    {
+      "id": "BA1-019",
+      "topic": "Microeconomic Environment",
+      "difficulty": "medium",
+      "question": "If both supply and demand for a good increase simultaneously, which of the following statements is definitely true?",
+      "options": {
+        "A": "Equilibrium quantity increases",
+        "B": "Equilibrium price increases",
+        "C": "Equilibrium quantity decreases",
+        "D": "Equilibrium price falls"
+      },
+      "correct": "A",
+      "explanation": "When both curves shift rightward, equilibrium quantity unambiguously increases regardless of relative magnitudes. The effect on price is indeterminate — it depends on which shift dominates — making options B and D incorrect."
+    },
+    {
+      "id": "BA1-020",
+      "topic": "Microeconomic Environment",
+      "difficulty": "medium",
+      "question": "Compared to a perfectly competitive market, a profit-maximising monopolist typically produces:",
+      "options": {
+        "A": "More output at a lower price",
+        "B": "Less output at a higher price",
+        "C": "The same output at a higher price",
+        "D": "Less output at a lower price"
+      },
+      "correct": "B",
+      "explanation": "A monopolist restricts output to the point where MR = MC, setting price above marginal cost. This delivers less output and a higher price than a competitive equilibrium, generating deadweight welfare loss."
+    },
+    {
+      "id": "BA1-021",
+      "topic": "The Financial System",
+      "difficulty": "easy",
+      "question": "Which of the following is a primary function of a central bank?",
+      "options": {
+        "A": "Providing mortgages and personal loans to individual customers",
+        "B": "Setting monetary policy and acting as lender of last resort",
+        "C": "Managing the government's equity investment portfolio",
+        "D": "Directly setting retail lending rates for commercial banks"
+      },
+      "correct": "B",
+      "explanation": "Central banks implement monetary policy (e.g., setting base rates, conducting QE) and stand as lender of last resort to prevent systemic banking failure. They do not lend to individuals; commercial banks set their own retail rates within the framework the central bank creates."
+    },
+    {
+      "id": "BA1-022",
+      "topic": "The Financial System",
+      "difficulty": "medium",
+      "question": "Financial intermediation primarily involves:",
+      "options": {
+        "A": "Governments directly lending to businesses at subsidised rates",
+        "B": "Central banks creating money through asset purchase programmes",
+        "C": "Financial institutions channelling funds from savers to borrowers",
+        "D": "Companies issuing shares directly to individual retail investors"
+      },
+      "correct": "C",
+      "explanation": "Financial intermediation means banks and similar institutions pool deposits from savers and on-lend to borrowers, transforming maturity, risk, and the scale of financial claims in the process. Direct share issuance is a capital market activity distinct from intermediation."
+    },
+    {
+      "id": "BA1-023",
+      "topic": "The Financial System",
+      "difficulty": "medium",
+      "question": "Commercial banks create money primarily through:",
+      "options": {
+        "A": "Printing additional banknotes when deposit inflows exceed reserves",
+        "B": "Extending loans, which simultaneously create new deposits",
+        "C": "Borrowing from the central bank and re-lending at higher interest rates",
+        "D": "Converting government bonds into circulating currency"
+      },
+      "correct": "B",
+      "explanation": "When a bank extends a loan, it credits the borrower's account — creating a new deposit — which itself forms part of the money supply. This credit creation mechanism is the primary driver of money supply expansion. Only central banks can print banknotes."
+    },
+    {
+      "id": "BA1-024",
+      "topic": "The Financial System",
+      "difficulty": "hard",
+      "question": "According to liquidity preference theory, the equilibrium interest rate is determined by:",
+      "options": {
+        "A": "The intersection of the savings supply curve and the investment demand curve",
+        "B": "The central bank's policy rate target alone",
+        "C": "The intersection of money supply and money demand",
+        "D": "The yield on government bonds in secondary markets"
+      },
+      "correct": "C",
+      "explanation": "Keynes's liquidity preference theory holds that the interest rate equilibrates money supply (controlled by the central bank) and money demand (the public's preference for holding liquid assets). The loanable funds theory uses savings and investment — a common distractor that describes a different theoretical framework."
+    },
+    {
+      "id": "BA1-025",
+      "topic": "The Financial System",
+      "difficulty": "medium",
+      "question": "Which of the following is a key difference between equity and debt finance?",
+      "options": {
+        "A": "Debt holders participate in company profits; equity holders receive a fixed return",
+        "B": "Equity holders have a residual claim on assets; debt holders have a contractual prior claim",
+        "C": "Debt finance is always cheaper than equity after tax",
+        "D": "Equity finance must be repaid within a defined term"
+      },
+      "correct": "B",
+      "explanation": "Equity holders receive residual value only after all obligations are met; debt holders have a prior contractual claim to interest and principal. Debt is generally cheaper after tax due to the tax shield, but 'always' is too strong — financial distress costs can reverse this. Equity has no fixed repayment term."
+    },
+    {
+      "id": "BA1-026",
+      "topic": "The Financial System",
+      "difficulty": "easy",
+      "question": "The primary market in finance is best described as:",
+      "options": {
+        "A": "The market where existing securities are traded between investors",
+        "B": "The market where new securities are first issued to raise capital",
+        "C": "The interbank market for overnight lending",
+        "D": "The government bond market"
+      },
+      "correct": "B",
+      "explanation": "Primary markets involve the original issuance of securities (IPOs, bond issuances), with proceeds going directly to the issuer. The secondary market is where previously issued securities are subsequently traded between investors — no new capital flows to the issuing entity."
+    },
+    {
+      "id": "BA1-027",
+      "topic": "The Financial System",
+      "difficulty": "medium",
+      "question": "A commercial bank's reserve ratio refers to:",
+      "options": {
+        "A": "The proportion of equity capital held against risk-weighted assets",
+        "B": "The fraction of customer deposits retained as liquid reserves rather than lent out",
+        "C": "The ratio of short-term liabilities to long-term liabilities",
+        "D": "The minimum return required on the loan book"
+      },
+      "correct": "B",
+      "explanation": "The reserve ratio is the fraction of deposits a bank keeps as liquid reserves to meet withdrawal demands. A lower reserve ratio enables more credit creation. The capital ratio — equity against risk-weighted assets — is a separate prudential concept."
+    },
+    {
+      "id": "BA1-028",
+      "topic": "The Financial System",
+      "difficulty": "hard",
+      "question": "Maturity transformation performed by banks refers to:",
+      "options": {
+        "A": "Converting short-term assets into long-term investments on behalf of clients",
+        "B": "Borrowing short-term (e.g., customer deposits) and lending long-term (e.g., mortgages)",
+        "C": "Converting domestic currency deposits into foreign currency loans",
+        "D": "Converting fixed-rate liabilities into variable-rate assets through swap agreements"
+      },
+      "correct": "B",
+      "explanation": "Banks routinely borrow short (demand deposits that can be withdrawn at any time) and lend long (mortgages, business loans with multi-year terms), bridging the maturity preferences of savers and borrowers. This mismatch is the source of liquidity risk and the reason central banks provide lender-of-last-resort facilities."
+    },
+    {
+      "id": "BA1-029",
+      "topic": "The Financial System",
+      "difficulty": "medium",
+      "question": "When market interest rates rise, the price of existing fixed-rate bonds:",
+      "options": {
+        "A": "Rises proportionately to the rate increase",
+        "B": "Falls",
+        "C": "Remains unchanged because the coupon is contractually fixed",
+        "D": "Rises, but only for government bonds"
+      },
+      "correct": "B",
+      "explanation": "A fixed coupon becomes less attractive when new bonds offer higher yields, so the price of existing bonds falls until their yield-to-maturity equals the prevailing market rate. This inverse relationship between bond prices and interest rates applies universally to all fixed-rate bonds."
+    },
+    {
+      "id": "BA1-030",
+      "topic": "The Financial System",
+      "difficulty": "easy",
+      "question": "Which of the following is NOT a primary function of financial markets?",
+      "options": {
+        "A": "Price discovery for financial assets",
+        "B": "Providing liquidity to investors who wish to exit positions",
+        "C": "Setting tax rates on investment income and capital gains",
+        "D": "Allocating capital to productive uses in the economy"
+      },
+      "correct": "C",
+      "explanation": "Tax rates on investment income are set by government fiscal policy, not financial markets. Financial markets perform price discovery, liquidity provision, and capital allocation — all of which improve economic efficiency."
+    },
+    {
+      "id": "BA1-031",
+      "topic": "International Trade and Globalisation",
+      "difficulty": "easy",
+      "question": "The principle of comparative advantage states that countries benefit from trade by:",
+      "options": {
+        "A": "Only trading with countries that have equal productive capacity",
+        "B": "Exporting goods in which they have an absolute cost advantage",
+        "C": "Specialising in goods where they have the lowest opportunity cost",
+        "D": "Pursuing free trade regardless of the impact on domestic industries"
+      },
+      "correct": "C",
+      "explanation": "Comparative advantage (Ricardo) holds that mutual gains from trade arise through specialisation in goods with the lowest opportunity cost, not necessarily the lowest absolute cost. A country less efficient at everything can still trade beneficially by focusing on its relatively best good."
+    },
+    {
+      "id": "BA1-032",
+      "topic": "International Trade and Globalisation",
+      "difficulty": "medium",
+      "question": "Under a fixed exchange rate system, a country with a persistent current account deficit would typically address it by:",
+      "options": {
+        "A": "Allowing the currency to depreciate freely against trading partners",
+        "B": "Deflating the domestic economy to reduce import demand",
+        "C": "Imposing capital controls to restrict financial outflows",
+        "D": "Issuing additional domestic currency to fund the deficit"
+      },
+      "correct": "B",
+      "explanation": "Under a fixed rate, currency depreciation is not available as an adjustment tool. Internal adjustment — domestic deflation, wage cuts, reduced government spending — is required to compress import demand and restore competitiveness. This is politically difficult, contrasting with the flexibility of floating regimes."
+    },
+    {
+      "id": "BA1-033",
+      "topic": "International Trade and Globalisation",
+      "difficulty": "medium",
+      "question": "Which of the following would appear in the current account of the balance of payments?",
+      "options": {
+        "A": "Purchase of foreign government bonds by domestic residents",
+        "B": "Foreign direct investment inflows into the domestic economy",
+        "C": "Receipt of dividend income from overseas equity investments",
+        "D": "A government-to-government loan extended to another country"
+      },
+      "correct": "C",
+      "explanation": "Investment income — dividends and interest received from foreign assets — is recorded in the current account's primary income balance. Capital flows such as FDI, bond purchases, and government loans appear in the financial account or capital account."
+    },
+    {
+      "id": "BA1-034",
+      "topic": "International Trade and Globalisation",
+      "difficulty": "hard",
+      "question": "A depreciation of the domestic currency will improve the trade balance if:",
+      "options": {
+        "A": "The Marshall-Lerner condition is satisfied (sum of export and import demand elasticities exceeds 1)",
+        "B": "The J-curve effect permanently eliminates the initial trade balance deterioration",
+        "C": "Domestic inflation is higher than in trading partner countries",
+        "D": "The central bank sterilises the exchange rate movement via open market operations"
+      },
+      "correct": "A",
+      "explanation": "The Marshall-Lerner condition states that currency depreciation improves the trade balance only when the absolute sum of export and import price elasticities exceeds one. The J-curve describes the short-run deterioration before improvement materialises — it does not guarantee a long-run improvement on its own."
+    },
+    {
+      "id": "BA1-035",
+      "topic": "International Trade and Globalisation",
+      "difficulty": "medium",
+      "question": "An import quota differs from a tariff primarily in that:",
+      "options": {
+        "A": "A quota generates government revenue; a tariff does not",
+        "B": "A tariff generates government revenue; a quota does not unless import licences are auctioned",
+        "C": "A quota applies only to services; a tariff applies only to goods",
+        "D": "Tariffs are prohibited by WTO rules but quotas are not"
+      },
+      "correct": "B",
+      "explanation": "A tariff is a tax on imports and directly generates revenue for the government. A quota restricts import volume but transfers any scarcity rent to foreign exporters unless the government auctions import licences. Both instruments are subject to WTO regulation."
+    },
+    {
+      "id": "BA1-036",
+      "topic": "International Trade and Globalisation",
+      "difficulty": "easy",
+      "question": "The primary purpose of the World Trade Organisation (WTO) is to:",
+      "options": {
+        "A": "Provide development loans to emerging market economies",
+        "B": "Manage global monetary stability and coordinate exchange rate policy",
+        "C": "Facilitate international trade by establishing rules and resolving disputes",
+        "D": "Set global commodity prices in coordination with producer nations"
+      },
+      "correct": "C",
+      "explanation": "The WTO sets the rules for international trade, provides a forum for trade negotiations, and adjudicates disputes between members. Development lending is the World Bank's mandate; exchange rate oversight falls to the IMF."
+    },
+    {
+      "id": "BA1-037",
+      "topic": "International Trade and Globalisation",
+      "difficulty": "medium",
+      "question": "The IMF's primary role is to:",
+      "options": {
+        "A": "Finance long-term infrastructure projects in developing countries",
+        "B": "Promote monetary cooperation and provide financial assistance to countries with balance of payments difficulties",
+        "C": "Eliminate trade barriers between member states through multilateral negotiations",
+        "D": "Coordinate a global minimum interest rate among central banks"
+      },
+      "correct": "B",
+      "explanation": "The IMF provides short-term financial assistance to members facing balance of payments crises and promotes monetary cooperation and exchange rate stability. Long-term development infrastructure is the World Bank's role — the most common distractor."
+    },
+    {
+      "id": "BA1-038",
+      "topic": "International Trade and Globalisation",
+      "difficulty": "hard",
+      "question": "According to purchasing power parity (PPP), in the long run exchange rates should adjust so that:",
+      "options": {
+        "A": "Nominal interest rates equalise across all countries",
+        "B": "A comparable basket of goods costs the same in each country when expressed in a common currency",
+        "C": "All trading countries achieve balanced current accounts simultaneously",
+        "D": "Capital flows between countries cease as return differentials disappear"
+      },
+      "correct": "B",
+      "explanation": "PPP holds that exchange rates move to equalise the purchasing power of currencies, so a basket of goods costs the same across countries once converted at the spot rate. Interest rate equalisation is described by interest rate parity — a separate concept."
+    },
+    {
+      "id": "BA1-039",
+      "topic": "International Trade and Globalisation",
+      "difficulty": "easy",
+      "question": "Which of the following is a potential negative consequence of globalisation?",
+      "options": {
+        "A": "Increased domestic access to foreign capital and investment",
+        "B": "A reduction in cross-border portfolio investment flows",
+        "C": "Structural unemployment in industries unable to compete with cheaper imports",
+        "D": "Higher prices for consumers due to reduced international competition"
+      },
+      "correct": "C",
+      "explanation": "Globalisation can cause structural unemployment when domestic industries lose competitiveness to lower-cost overseas producers, forcing workers to retrain for other sectors. Consumers typically benefit from lower prices through import competition — the opposite of option D."
+    },
+    {
+      "id": "BA1-040",
+      "topic": "International Trade and Globalisation",
+      "difficulty": "medium",
+      "question": "Country A produces 10 units of wheat or 5 units of cloth per hour. Country B produces 6 units of wheat or 4 units of cloth per hour. Which country has a comparative advantage in cloth?",
+      "options": {
+        "A": "Country A, because it produces more cloth per hour in absolute terms",
+        "B": "Country B, because its opportunity cost of producing one unit of cloth is lower",
+        "C": "Country A, because it is more efficient in both goods",
+        "D": "Neither country — both have the same comparative advantage in cloth"
+      },
+      "correct": "B",
+      "explanation": "Country A's opportunity cost of 1 unit of cloth = 2 units of wheat. Country B's opportunity cost of 1 unit of cloth = 1.5 units of wheat. Country B gives up less wheat per unit of cloth, so it holds the comparative advantage in cloth. Absolute advantage in both goods is irrelevant to comparative advantage."
+    },
+    {
+      "id": "BA1-041",
+      "topic": "Information Systems and Technology",
+      "difficulty": "easy",
+      "question": "A Transaction Processing System (TPS) is primarily used to:",
+      "options": {
+        "A": "Produce strategic reports for senior management decision-making",
+        "B": "Record, process, and store high-volume day-to-day operational transactions",
+        "C": "Support complex analytical decisions using large and varied datasets",
+        "D": "Monitor external competitive intelligence and market trends"
+      },
+      "correct": "B",
+      "explanation": "A TPS handles routine, high-volume operational data such as sales transactions, payroll, and order processing. Strategic decision support is the domain of DSS and EIS; TPS feeds data upward to these higher-level systems."
+    },
+    {
+      "id": "BA1-042",
+      "topic": "Information Systems and Technology",
+      "difficulty": "medium",
+      "question": "A Management Information System (MIS) differs from a Transaction Processing System (TPS) in that:",
+      "options": {
+        "A": "MIS processes only financial transactions, while TPS handles all types",
+        "B": "MIS produces structured reports to support managerial decisions using data aggregated from TPS",
+        "C": "MIS operates exclusively in real time, while TPS uses overnight batch processing",
+        "D": "MIS is used at the operational level; TPS is used at the management level"
+      },
+      "correct": "B",
+      "explanation": "A MIS aggregates and summarises TPS data to produce regular structured reports (e.g., weekly sales summaries) for middle management decisions. A TPS captures individual transactions; a MIS uses those transactions to support management rather than just record them."
+    },
+    {
+      "id": "BA1-043",
+      "topic": "Information Systems and Technology",
+      "difficulty": "medium",
+      "question": "An Executive Information System (EIS) is distinguished from a Decision Support System (DSS) primarily because:",
+      "options": {
+        "A": "EIS is designed for operational managers; DSS is for senior executives",
+        "B": "EIS provides aggregated strategic information; DSS supports semi-structured analytical decisions",
+        "C": "DSS relies on structured reporting; EIS uses only unstructured external data",
+        "D": "EIS requires no user interaction; DSS requires users to build and run models"
+      },
+      "correct": "B",
+      "explanation": "An EIS provides senior executives with high-level aggregated internal and external data for strategic oversight. A DSS supports analysts and middle managers in semi-structured problem-solving using models and data. EIS prioritises presentation simplicity over analytical depth."
+    },
+    {
+      "id": "BA1-044",
+      "topic": "Information Systems and Technology",
+      "difficulty": "hard",
+      "question": "Which of the following best illustrates the distinction between data and information?",
+      "options": {
+        "A": "Data are numbers; information consists of words, charts, and visual outputs",
+        "B": "Raw sales figures for each individual transaction are data; a monthly sales trend report is information",
+        "C": "Data must be computer-generated; information can be produced manually",
+        "D": "Information is always more accurate than data because it has been verified"
+      },
+      "correct": "B",
+      "explanation": "Data are raw, unprocessed facts (individual sales transactions). Information is data that has been processed and given context to support decision-making (a trend report). The distinction lies in processing and meaning, not medium or accuracy."
+    },
+    {
+      "id": "BA1-045",
+      "topic": "Information Systems and Technology",
+      "difficulty": "medium",
+      "question": "A phishing attack typically involves:",
+      "options": {
+        "A": "Exploiting software vulnerabilities to gain unauthorised remote system access",
+        "B": "Intercepting network traffic to capture data packets in transit",
+        "C": "Sending fraudulent communications that appear legitimate to deceive users into revealing sensitive data",
+        "D": "Overloading a server with traffic until it becomes unavailable"
+      },
+      "correct": "C",
+      "explanation": "Phishing uses deceptive emails or websites mimicking trusted entities to trick users into disclosing credentials or installing malware. Exploiting software vulnerabilities is hacking or exploitation; intercepting traffic is a man-in-the-middle attack; overloading servers is a DDoS attack."
+    },
+    {
+      "id": "BA1-046",
+      "topic": "Information Systems and Technology",
+      "difficulty": "easy",
+      "question": "Which of the following best describes an Enterprise Resource Planning (ERP) system?",
+      "options": {
+        "A": "A system for managing customer relationships and tracking the sales pipeline",
+        "B": "An integrated software platform managing core business processes across an organisation",
+        "C": "A system for analysing unstructured external data such as social media",
+        "D": "A dedicated cybersecurity monitoring and threat detection tool"
+      },
+      "correct": "B",
+      "explanation": "An ERP system integrates multiple business functions (finance, HR, supply chain, procurement) into a single unified platform. CRM systems cover customer interaction — a function sometimes integrated within an ERP but not its defining characteristic."
+    },
+    {
+      "id": "BA1-047",
+      "topic": "Information Systems and Technology",
+      "difficulty": "medium",
+      "question": "Which of the following is most directly associated with digital transformation in a financial services firm?",
+      "options": {
+        "A": "Replacing paper forms with scanned PDF equivalents",
+        "B": "Using machine learning to automate credit scoring decisions",
+        "C": "Upgrading on-premise servers to faster hardware",
+        "D": "Outsourcing the IT helpdesk function to a third-party provider"
+      },
+      "correct": "B",
+      "explanation": "Digital transformation fundamentally changes how services are delivered using advanced digital technologies. ML-based credit scoring changes the decision-making process itself, not just the medium. Scanning paper or upgrading hardware is digitisation — modernising tools without fundamentally changing the process."
+    },
+    {
+      "id": "BA1-048",
+      "topic": "Information Systems and Technology",
+      "difficulty": "hard",
+      "question": "In the context of big data, which of the following best describes 'velocity'?",
+      "options": {
+        "A": "The extremely large volume of data generated by business operations",
+        "B": "The diverse formats in which data is stored, such as text, images, and video",
+        "C": "The speed at which data is generated and must be processed",
+        "D": "The accuracy and reliability of data for decision-making purposes"
+      },
+      "correct": "C",
+      "explanation": "The three Vs of big data are Volume (quantity), Velocity (speed of generation and processing), and Variety (format diversity). Velocity refers to the need to process high-speed data streams — for example, real-time financial transactions — rather than batch-process historical data."
+    },
+    {
+      "id": "BA1-049",
+      "topic": "Information Systems and Technology",
+      "difficulty": "medium",
+      "question": "Robotic Process Automation (RPA) is best suited to:",
+      "options": {
+        "A": "Tasks requiring complex judgement and contextual interpretation of ambiguous inputs",
+        "B": "High-volume, rule-based, repetitive tasks currently performed manually",
+        "C": "Creative problem-solving in unstructured and unpredictable environments",
+        "D": "Physical manufacturing and assembly operations"
+      },
+      "correct": "B",
+      "explanation": "RPA automates structured, rule-based tasks — data entry, invoice matching, report generation — that follow consistent logic and require no judgement. It is not suitable for tasks requiring discretion, creativity, or physical manipulation."
+    },
+    {
+      "id": "BA1-050",
+      "topic": "Information Systems and Technology",
+      "difficulty": "easy",
+      "question": "Which characteristic of information is most critical for operational decision-making?",
+      "options": {
+        "A": "Completeness — capturing every possible detail at granular level",
+        "B": "Historical accuracy — reflecting past performance precisely",
+        "C": "Timeliness — being available when decisions must be made",
+        "D": "Aggregation — summarising at a sufficiently high level"
+      },
+      "correct": "C",
+      "explanation": "Operational decisions are made in real time or close to it, so information that arrives after the operational window has passed is worthless regardless of its accuracy. Excessive detail or aggregation can also impede decision speed, but timeliness is the primary concern."
+    }
+  ],
+  "BA2": [
+    {
+      "id": "BA2-001",
+      "topic": "Cost Classification and Behaviour",
+      "difficulty": "easy",
+      "question": "Which of the following costs is best classified as variable?",
+      "options": {
+        "A": "Factory rent under a fixed-term lease",
+        "B": "Straight-line depreciation on production machinery",
+        "C": "Direct materials consumed in production",
+        "D": "Production manager's annual salary"
+      },
+      "correct": "C",
+      "explanation": "Variable costs change in direct proportion to output; direct materials are the clearest example — more units require more material. Factory rent and straight-line depreciation are fixed costs; the production manager's salary is typically fixed regardless of output level."
+    },
+    {
+      "id": "BA2-002",
+      "topic": "Cost Classification and Behaviour",
+      "difficulty": "medium",
+      "question": "A telephone contract charges a fixed £200 monthly line rental plus £0.05 per call made. How should this cost be classified?",
+      "options": {
+        "A": "Fixed cost",
+        "B": "Variable cost",
+        "C": "Semi-variable cost",
+        "D": "Stepped fixed cost"
+      },
+      "correct": "C",
+      "explanation": "A semi-variable (or mixed) cost contains both a fixed element (the monthly rental) and a variable element (the per-call charge). It changes with activity but does not start at zero — distinguishing it from a purely variable cost."
+    },
+    {
+      "id": "BA2-003",
+      "topic": "Cost Classification and Behaviour",
+      "difficulty": "medium",
+      "question": "Activity data: highest output 8,000 units with total cost £62,000; lowest output 3,000 units with total cost £37,000. Using the high-low method, what is the variable cost per unit?",
+      "options": {
+        "A": "£3.00",
+        "B": "£5.00",
+        "C": "£7.75",
+        "D": "£12.40"
+      },
+      "correct": "B",
+      "explanation": "Variable cost per unit = change in cost / change in output = (£62,000 - £37,000) / (8,000 - 3,000) = £25,000 / 5,000 = £5.00. The common error is dividing by total units at one activity level rather than the incremental change in units."
+    },
+    {
+      "id": "BA2-004",
+      "topic": "Cost Classification and Behaviour",
+      "difficulty": "medium",
+      "question": "Using the data from BA2-003 (variable cost £5.00/unit), what is the total fixed cost per period?",
+      "options": {
+        "A": "£2,000",
+        "B": "£10,000",
+        "C": "£22,000",
+        "D": "£37,000"
+      },
+      "correct": "C",
+      "explanation": "Fixed cost = total cost - (variable cost × units) = £62,000 - (£5.00 × 8,000) = £22,000. Verify using the low point: £22,000 + (£5.00 × 3,000) = £37,000. A common error is using total cost at one activity level as the fixed cost without deducting the variable portion."
+    },
+    {
+      "id": "BA2-005",
+      "topic": "Cost Classification and Behaviour",
+      "difficulty": "easy",
+      "question": "Factory supervisor wages are best classified as:",
+      "options": {
+        "A": "Direct labour",
+        "B": "Direct production overhead",
+        "C": "Indirect labour",
+        "D": "Direct material cost"
+      },
+      "correct": "C",
+      "explanation": "Direct labour is traceable to specific units of output (e.g., an assembly worker's time per product). A factory supervisor oversees general operations rather than working on individual units, making their wage an indirect (overhead) labour cost."
+    },
+    {
+      "id": "BA2-006",
+      "topic": "Cost Classification and Behaviour",
+      "difficulty": "hard",
+      "question": "A company rents production equipment at £15,000 per year per machine. One machine can handle up to 10,000 units of output. If planned output is 23,000 units, what is the total equipment rental cost?",
+      "options": {
+        "A": "£15,000",
+        "B": "£30,000",
+        "C": "£45,000",
+        "D": "£34,500"
+      },
+      "correct": "C",
+      "explanation": "23,000 units requires 3 machines (two at 10,000 units each and one for the remaining 3,000 units). Total cost = 3 × £15,000 = £45,000. This is a stepped fixed cost — fixed within a capacity range but rising in discrete steps. The common error is rounding 23,000/10,000 = 2.3 down to 2 machines, ignoring that the surplus 3,000 units requires a third."
+    },
+    {
+      "id": "BA2-007",
+      "topic": "Cost Classification and Behaviour",
+      "difficulty": "medium",
+      "question": "Which of the following is treated as a period cost under marginal costing?",
+      "options": {
+        "A": "Direct materials",
+        "B": "Direct labour",
+        "C": "Variable production overhead",
+        "D": "Fixed production overhead"
+      },
+      "correct": "D",
+      "explanation": "Under marginal costing, fixed production overhead is charged in full to the period in which it is incurred and does not follow inventory. Under absorption costing, fixed production overhead is included in product cost and carried forward in inventory valuation."
+    },
+    {
+      "id": "BA2-008",
+      "topic": "Cost Classification and Behaviour",
+      "difficulty": "hard",
+      "question": "A company has fixed costs of £80,000 and variable costs of £12 per unit. What is the total cost per unit at an output of 5,000 units?",
+      "options": {
+        "A": "£12.00",
+        "B": "£16.00",
+        "C": "£24.00",
+        "D": "£28.00"
+      },
+      "correct": "D",
+      "explanation": "Total cost = £80,000 + (£12 × 5,000) = £140,000. Cost per unit = £140,000 / 5,000 = £28.00. At 10,000 units the total unit cost falls to £20.00, illustrating that average total cost decreases as volume rises due to fixed cost spreading — not because marginal cost has changed."
+    },
+    {
+      "id": "BA2-009",
+      "topic": "Absorption and Marginal Costing",
+      "difficulty": "easy",
+      "question": "A company has budgeted fixed production overheads of £150,000 and budgeted direct labour hours of 30,000. What is the overhead absorption rate (OAR) per direct labour hour?",
+      "options": {
+        "A": "£3.00",
+        "B": "£5.00",
+        "C": "£15.00",
+        "D": "£45.00"
+      },
+      "correct": "B",
+      "explanation": "OAR = Budgeted overhead / Budgeted activity level = £150,000 / 30,000 hours = £5.00 per direct labour hour. A common error is dividing by units rather than hours when the chosen absorption basis is direct labour hours."
+    },
+    {
+      "id": "BA2-010",
+      "topic": "Absorption and Marginal Costing",
+      "difficulty": "medium",
+      "question": "Budgeted overheads: £200,000. Budgeted machine hours: 40,000. Actual overheads incurred: £215,000. Actual machine hours worked: 42,000. What is the over- or under-absorption of overhead?",
+      "options": {
+        "A": "£15,000 under-absorbed",
+        "B": "£5,000 under-absorbed",
+        "C": "£5,000 over-absorbed",
+        "D": "£10,000 under-absorbed"
+      },
+      "correct": "B",
+      "explanation": "OAR = £200,000 / 40,000 = £5.00/hour. Overhead absorbed = £5.00 × 42,000 = £210,000. Actual overhead = £215,000. Under-absorption = £215,000 - £210,000 = £5,000. Under-absorption means actual overhead exceeded absorbed overhead, which reduces reported profit. The £15,000 distractor compares actual to budgeted overhead without adjusting for the extra hours worked."
+    },
+    {
+      "id": "BA2-011",
+      "topic": "Absorption and Marginal Costing",
+      "difficulty": "medium",
+      "question": "A company produces 5,000 units and sells 4,000 units. Selling price: £30/unit. Variable production cost: £12/unit. Fixed production overhead: £20,000. No opening inventories. What is the profit under absorption costing?",
+      "options": {
+        "A": "£48,000",
+        "B": "£52,000",
+        "C": "£56,000",
+        "D": "£60,000"
+      },
+      "correct": "C",
+      "explanation": "OAR = £20,000 / 5,000 = £4/unit. Absorption cost per unit = £12 + £4 = £16. Revenue = 4,000 × £30 = £120,000. Cost of sales = 4,000 × £16 = £64,000. Profit = £56,000. Under marginal costing the profit would be £52,000, as £4,000 of fixed overhead is deferred in the 1,000-unit closing inventory under absorption costing."
+    },
+    {
+      "id": "BA2-012",
+      "topic": "Absorption and Marginal Costing",
+      "difficulty": "medium",
+      "question": "In a period when production exceeds sales, which of the following statements about reported profit is correct?",
+      "options": {
+        "A": "Absorption costing reports lower profit than marginal costing",
+        "B": "Marginal costing and absorption costing always give identical profit figures",
+        "C": "Absorption costing reports higher profit than marginal costing",
+        "D": "Marginal costing reports higher profit than absorption costing"
+      },
+      "correct": "C",
+      "explanation": "When production exceeds sales, closing inventory is higher. Absorption costing carries a portion of fixed production overhead into closing inventory, reducing the amount charged to the income statement and therefore reporting higher profit than marginal costing. When sales exceed production, this relationship reverses."
+    },
+    {
+      "id": "BA2-013",
+      "topic": "Absorption and Marginal Costing",
+      "difficulty": "hard",
+      "question": "Budgeted fixed overheads: £150,000. Budgeted direct labour hours: 30,000. Actual overheads: £148,000. Actual direct labour hours: 31,000. What is the total over- or under-absorption?",
+      "options": {
+        "A": "£2,000 over-absorbed",
+        "B": "£7,000 over-absorbed",
+        "C": "£2,000 under-absorbed",
+        "D": "£5,000 over-absorbed"
+      },
+      "correct": "B",
+      "explanation": "OAR = £150,000 / 30,000 = £5.00/hour. Overhead absorbed = £5.00 × 31,000 = £155,000. Actual overhead = £148,000. Over-absorption = £155,000 - £148,000 = £7,000. The £2,000 distractor comes from simply subtracting budgeted from actual overhead (£150,000 - £148,000) without accounting for the additional hours worked."
+    },
+    {
+      "id": "BA2-014",
+      "topic": "Absorption and Marginal Costing",
+      "difficulty": "easy",
+      "question": "Under marginal costing, contribution is defined as:",
+      "options": {
+        "A": "Sales revenue minus all costs incurred",
+        "B": "Sales revenue minus variable costs",
+        "C": "Sales revenue minus fixed costs",
+        "D": "Sales revenue minus direct production costs only"
+      },
+      "correct": "B",
+      "explanation": "Contribution = Sales revenue - Variable costs. It represents the amount each unit (or total sales) contributes toward covering fixed costs before generating profit. Subtracting all costs gives net profit, not contribution."
+    },
+    {
+      "id": "BA2-015",
+      "topic": "Absorption and Marginal Costing",
+      "difficulty": "medium",
+      "question": "Under marginal costing, closing inventory is valued at:",
+      "options": {
+        "A": "Full production cost, including a share of fixed overhead",
+        "B": "Variable production cost only",
+        "C": "Variable production cost plus a proportion of variable selling expenses",
+        "D": "Selling price less the expected profit margin"
+      },
+      "correct": "B",
+      "explanation": "Marginal costing values inventory at variable production cost only, excluding fixed overheads entirely. Absorption costing includes a share of fixed production overhead, resulting in higher inventory values and different profit figures whenever inventory levels change between periods."
+    },
+    {
+      "id": "BA2-016",
+      "topic": "Absorption and Marginal Costing",
+      "difficulty": "hard",
+      "question": "A company produces 8,000 units and sells 6,500 units. Fixed production overhead is £32,000, and budgeted production is 8,000 units. What is the difference in reported profit between absorption and marginal costing?",
+      "options": {
+        "A": "Absorption costing profit is £6,000 higher",
+        "B": "Marginal costing profit is £6,000 higher",
+        "C": "Absorption costing profit is £4,875 higher",
+        "D": "The profits are identical as production equals budgeted output"
+      },
+      "correct": "A",
+      "explanation": "OAR = £32,000 / 8,000 = £4/unit. Unsold units = 8,000 - 6,500 = 1,500. Fixed overhead deferred in closing inventory = 1,500 × £4 = £6,000. Absorption costing defers this amount, reporting £6,000 higher profit than marginal costing. The common error is using total fixed overhead rather than the portion attributable to unsold inventory."
+    },
+    {
+      "id": "BA2-017",
+      "topic": "Budgeting and Budgetary Control",
+      "difficulty": "easy",
+      "question": "A flexed budget differs from a fixed budget in that:",
+      "options": {
+        "A": "A flexed budget is prepared for multiple activity scenarios before the period begins",
+        "B": "A flexed budget is adjusted to actual activity levels to enable meaningful variance analysis",
+        "C": "A flexed budget is used exclusively for long-term strategic capital planning",
+        "D": "A flexed budget eliminates all variances by adjusting actual costs to budget"
+      },
+      "correct": "B",
+      "explanation": "A flexed budget recalculates budgeted costs at the actual volume achieved, isolating efficiency variances from volume differences. A fixed budget retains the original budgeted volume throughout the period, making cost comparisons misleading when actual output differs."
+    },
+    {
+      "id": "BA2-018",
+      "topic": "Budgeting and Budgetary Control",
+      "difficulty": "medium",
+      "question": "Expected sales: 12,000 units. Opening finished goods inventory: 1,500 units. Desired closing finished goods inventory: 2,000 units. What is the required production volume?",
+      "options": {
+        "A": "10,000 units",
+        "B": "11,500 units",
+        "C": "12,500 units",
+        "D": "13,500 units"
+      },
+      "correct": "C",
+      "explanation": "Production = Sales + Closing inventory - Opening inventory = 12,000 + 2,000 - 1,500 = 12,500 units. The common error is adding both inventory figures (giving 15,500) or subtracting closing instead of opening inventory."
+    },
+    {
+      "id": "BA2-019",
+      "topic": "Budgeting and Budgetary Control",
+      "difficulty": "medium",
+      "question": "Each unit of production requires 3 kg of raw material. Planned production: 5,000 units. Opening raw material inventory: 4,000 kg. Required closing raw material inventory: 5,500 kg. What quantity of raw material must be purchased?",
+      "options": {
+        "A": "15,000 kg",
+        "B": "16,500 kg",
+        "C": "13,500 kg",
+        "D": "14,500 kg"
+      },
+      "correct": "B",
+      "explanation": "Material required for production = 5,000 × 3 = 15,000 kg. Purchases = 15,000 + Closing inventory - Opening inventory = 15,000 + 5,500 - 4,000 = 16,500 kg. Ignoring the inventory adjustment and answering 15,000 kg is the most common error."
+    },
+    {
+      "id": "BA2-020",
+      "topic": "Budgeting and Budgetary Control",
+      "difficulty": "hard",
+      "question": "A key advantage of zero-based budgeting (ZBB) over incremental budgeting is that:",
+      "options": {
+        "A": "ZBB is faster and less costly to prepare than incremental approaches",
+        "B": "ZBB requires managers to justify all expenditure from scratch, removing embedded inefficiency",
+        "C": "ZBB sets all non-core departmental budgets at zero by default",
+        "D": "ZBB ensures all budgets grow in line with the inflation rate"
+      },
+      "correct": "B",
+      "explanation": "ZBB challenges every line of expenditure each period, preventing the perpetuation of inefficient or redundant spending that incremental budgeting (prior year plus a percentage) allows. Its main disadvantage is the significant time and resource cost of preparation — which is why option A is incorrect."
+    },
+    {
+      "id": "BA2-021",
+      "topic": "Budgeting and Budgetary Control",
+      "difficulty": "medium",
+      "question": "Which of the following best describes a rolling (continuous) budget?",
+      "options": {
+        "A": "A budget revised monthly based on actual performance to date within the current year",
+        "B": "A budget extended by one additional period each time the most recent period ends",
+        "C": "A budget based on the previous year's actuals adjusted upward by a fixed percentage",
+        "D": "A budget simultaneously prepared by all functional departments"
+      },
+      "correct": "B",
+      "explanation": "A rolling budget continuously adds a new future period (e.g., a quarter) as the most recent one elapses, maintaining a constant planning horizon throughout the year. This is distinct from budget revision, which changes the figures within the current planning period rather than extending the horizon."
+    },
+    {
+      "id": "BA2-022",
+      "topic": "Budgeting and Budgetary Control",
+      "difficulty": "medium",
+      "question": "Participative (bottom-up) budgeting is most likely to result in:",
+      "options": {
+        "A": "Reduced budgetary slack compared to budgets imposed by senior management",
+        "B": "Greater employee motivation because managers help set their own targets",
+        "C": "Faster budget preparation due to fewer layers of senior review",
+        "D": "Tighter cost control because targets reflect external benchmarks"
+      },
+      "correct": "B",
+      "explanation": "Participative budgeting increases motivation and commitment as managers have ownership of the targets they are measured against. The main risk is budgetary slack — managers may understate achievable performance to set easier targets — meaning option A has the relationship reversed."
+    },
+    {
+      "id": "BA2-023",
+      "topic": "Budgeting and Budgetary Control",
+      "difficulty": "easy",
+      "question": "A company budgets material costs of £45,000 but actually incurs £48,000. The variance is:",
+      "options": {
+        "A": "£3,000 favourable",
+        "B": "£3,000 adverse",
+        "C": "£3,000 neutral — within acceptable tolerance",
+        "D": "Not determinable without production volume data"
+      },
+      "correct": "B",
+      "explanation": "An adverse cost variance occurs when actual cost exceeds budgeted cost: £48,000 - £45,000 = £3,000 adverse. Volume data would be required to flex the budget and produce a more meaningful efficiency variance, but based on the fixed budget comparison the variance is simply £3,000 adverse."
+    },
+    {
+      "id": "BA2-024",
+      "topic": "Budgeting and Budgetary Control",
+      "difficulty": "hard",
+      "question": "Fixed budget: sales and production 4,000 units, variable costs £28,000. Actual: sales and production 4,500 units, variable costs £32,000. What is the flexed budget variable cost variance?",
+      "options": {
+        "A": "£4,000 adverse",
+        "B": "£500 adverse",
+        "C": "£500 favourable",
+        "D": "£4,000 favourable"
+      },
+      "correct": "B",
+      "explanation": "Standard variable cost per unit = £28,000 / 4,000 = £7.00. Flexed budget variable cost = £7.00 × 4,500 = £31,500. Actual variable cost = £32,000. Variance = £32,000 - £31,500 = £500 adverse. The £4,000 adverse figure is the fixed budget comparison (not flexed) and does not strip out the volume effect."
+    },
+    {
+      "id": "BA2-025",
+      "topic": "Standard Costing and Variance Analysis",
+      "difficulty": "medium",
+      "question": "Standard material: 2 kg per unit at £5.00/kg. Actual production: 1,000 units. Actual material purchased and used: 2,100 kg at £4.80/kg. What is the material price variance?",
+      "options": {
+        "A": "£420 favourable",
+        "B": "£420 adverse",
+        "C": "£500 favourable",
+        "D": "£1,000 favourable"
+      },
+      "correct": "A",
+      "explanation": "MPV = (Standard price - Actual price) × Actual quantity purchased = (£5.00 - £4.80) × 2,100 = £0.20 × 2,100 = £420 favourable. The £500 favourable distractor comes from applying the rate difference to standard quantity (2,000 kg) rather than actual quantity purchased (2,100 kg)."
+    },
+    {
+      "id": "BA2-026",
+      "topic": "Standard Costing and Variance Analysis",
+      "difficulty": "medium",
+      "question": "Using the data from BA2-025 (standard 2 kg/unit at £5.00/kg, actual production 1,000 units, actual usage 2,100 kg), what is the material usage variance?",
+      "options": {
+        "A": "£500 adverse",
+        "B": "£500 favourable",
+        "C": "£420 adverse",
+        "D": "£100 adverse"
+      },
+      "correct": "A",
+      "explanation": "MUV = (Standard quantity - Actual quantity) × Standard price = (2,000 - 2,100) × £5.00 = -100 × £5.00 = £500 adverse. Standard quantity for actual production = 1,000 × 2 = 2,000 kg. Using 100 kg more than standard is an adverse usage variance."
+    },
+    {
+      "id": "BA2-027",
+      "topic": "Standard Costing and Variance Analysis",
+      "difficulty": "medium",
+      "question": "Standard labour: 3 hours/unit at £8.00/hour. Actual production: 500 units. Actual hours worked: 1,600. Total actual labour cost: £12,480. What is the labour rate variance?",
+      "options": {
+        "A": "£320 favourable",
+        "B": "£320 adverse",
+        "C": "£640 adverse",
+        "D": "£480 favourable"
+      },
+      "correct": "A",
+      "explanation": "Actual rate = £12,480 / 1,600 = £7.80/hour. LRV = (Standard rate - Actual rate) × Actual hours = (£8.00 - £7.80) × 1,600 = £0.20 × 1,600 = £320 favourable. A common error is applying the rate difference to standard hours (1,500) rather than actual hours (1,600), giving £300 favourable."
+    },
+    {
+      "id": "BA2-028",
+      "topic": "Standard Costing and Variance Analysis",
+      "difficulty": "medium",
+      "question": "Using the data from BA2-027 (standard 3 hrs/unit, actual production 500 units, actual hours 1,600), what is the labour efficiency variance?",
+      "options": {
+        "A": "£800 adverse",
+        "B": "£800 favourable",
+        "C": "£480 adverse",
+        "D": "£320 adverse"
+      },
+      "correct": "A",
+      "explanation": "LEV = (Standard hours - Actual hours) × Standard rate = (1,500 - 1,600) × £8.00 = -100 × £8.00 = £800 adverse. Standard hours for actual production = 500 × 3 = 1,500 hours. Working 100 hours more than standard represents an adverse efficiency outcome."
+    },
+    {
+      "id": "BA2-029",
+      "topic": "Standard Costing and Variance Analysis",
+      "difficulty": "hard",
+      "question": "Budgeted fixed overheads: £60,000. Budgeted production: 6,000 units. Actual production: 6,500 units. What is the fixed overhead volume variance?",
+      "options": {
+        "A": "£5,000 favourable",
+        "B": "£5,000 adverse",
+        "C": "£10,000 favourable",
+        "D": "£60,000 adverse"
+      },
+      "correct": "A",
+      "explanation": "Standard OAR = £60,000 / 6,000 = £10/unit. Overhead absorbed = 6,500 × £10 = £65,000. Volume variance = Overhead absorbed - Budgeted overhead = £65,000 - £60,000 = £5,000 favourable. Producing more units than budgeted means more overhead is absorbed, generating a favourable volume variance."
+    },
+    {
+      "id": "BA2-030",
+      "topic": "Standard Costing and Variance Analysis",
+      "difficulty": "hard",
+      "question": "Budgeted fixed overheads: £60,000. Actual fixed overheads incurred: £63,500. What is the fixed overhead expenditure variance?",
+      "options": {
+        "A": "£3,500 favourable",
+        "B": "£3,500 adverse",
+        "C": "£63,500 adverse",
+        "D": "Indeterminate without actual production data"
+      },
+      "correct": "B",
+      "explanation": "Expenditure variance = Budgeted overhead - Actual overhead = £60,000 - £63,500 = £3,500 adverse. More was spent than budgeted, which is adverse regardless of production volume. Unlike the volume variance, the expenditure variance does not require production data because it compares two cost figures directly."
+    },
+    {
+      "id": "BA2-031",
+      "topic": "Standard Costing and Variance Analysis",
+      "difficulty": "medium",
+      "question": "Standard variable overhead: £4/direct labour hour. Standard labour: 2 hours/unit. Actual production: 800 units. Actual hours worked: 1,700. What is the variable overhead efficiency variance?",
+      "options": {
+        "A": "£400 favourable",
+        "B": "£400 adverse",
+        "C": "£800 adverse",
+        "D": "£1,600 adverse"
+      },
+      "correct": "B",
+      "explanation": "Standard hours for actual production = 800 × 2 = 1,600 hours. VOH efficiency variance = (Standard hours - Actual hours) × Standard VOH rate = (1,600 - 1,700) × £4.00 = -100 × £4 = £400 adverse. Working more hours than standard incurs more variable overhead than planned."
+    },
+    {
+      "id": "BA2-032",
+      "topic": "Standard Costing and Variance Analysis",
+      "difficulty": "easy",
+      "question": "A favourable direct material price variance indicates that:",
+      "options": {
+        "A": "Less material was consumed than the standard quantity for actual production",
+        "B": "The actual price paid per unit of material was lower than the standard price",
+        "C": "Material usage was more efficient than the standard specified",
+        "D": "Total material expenditure was below the amount budgeted in the fixed budget"
+      },
+      "correct": "B",
+      "explanation": "The material price variance compares actual price paid to standard price, applied to actual quantity purchased. Favourable means actual price < standard price. Less material consumed than standard describes a favourable usage variance — a different calculation."
+    },
+    {
+      "id": "BA2-033",
+      "topic": "Standard Costing and Variance Analysis",
+      "difficulty": "medium",
+      "question": "Standard costing is most useful as a management control tool because:",
+      "options": {
+        "A": "It eliminates the need to prepare annual budgets",
+        "B": "It enables actual performance to be measured against a predetermined benchmark through variance analysis",
+        "C": "It ensures all product costs remain fixed regardless of volume changes",
+        "D": "It is required under IFRS for all listed manufacturing companies"
+      },
+      "correct": "B",
+      "explanation": "Standard costing provides a benchmark (the standard) against which actual performance is measured, with variances highlighting deviations for investigation. It complements budgeting rather than replacing it and is a management accounting technique not mandated by IFRS."
+    },
+    {
+      "id": "BA2-034",
+      "topic": "Standard Costing and Variance Analysis",
+      "difficulty": "hard",
+      "question": "A company reports an adverse material usage variance alongside a favourable material price variance. The most plausible single explanation for this combination is:",
+      "options": {
+        "A": "Workers were more efficient and materials were obtained at a negotiated volume discount",
+        "B": "Lower-quality materials were purchased cheaply but required higher usage due to waste or rework",
+        "C": "Production volume was higher than budgeted, inflating both variances in opposite directions",
+        "D": "A favourable exchange rate movement reduced input costs while increasing scrap rates"
+      },
+      "correct": "B",
+      "explanation": "Purchasing cheaper but lower-quality materials is the classic cause of offsetting price and usage variances: savings on price are partially or fully eroded by excess waste. This illustrates why variances should not be analysed in isolation. Higher production volume would create an adverse usage variance in absolute terms but should be stripped out by flexing the budget first."
+    },
+    {
+      "id": "BA2-035",
+      "topic": "Short-Term Decision Making",
+      "difficulty": "medium",
+      "question": "Selling price: £25/unit. Variable cost: £15/unit. Fixed costs: £80,000 per period. What is the break-even point in units?",
+      "options": {
+        "A": "3,200 units",
+        "B": "5,333 units",
+        "C": "8,000 units",
+        "D": "4,000 units"
+      },
+      "correct": "C",
+      "explanation": "Contribution per unit = £25 - £15 = £10. Break-even units = Fixed costs / Contribution per unit = £80,000 / £10 = 8,000 units. The 3,200 distractor comes from dividing fixed costs by selling price rather than contribution — a fundamental conceptual error."
+    },
+    {
+      "id": "BA2-036",
+      "topic": "Short-Term Decision Making",
+      "difficulty": "medium",
+      "question": "Using the data from BA2-035 (selling price £25, variable cost £15, fixed costs £80,000), what is the break-even point expressed as revenue?",
+      "options": {
+        "A": "£80,000",
+        "B": "£120,000",
+        "C": "£200,000",
+        "D": "£160,000"
+      },
+      "correct": "C",
+      "explanation": "Break-even revenue = Break-even units × Selling price = 8,000 × £25 = £200,000. Alternatively, using the C/S ratio: C/S = £10/£25 = 0.40; Break-even revenue = £80,000 / 0.40 = £200,000. Both approaches must give the same answer."
+    },
+    {
+      "id": "BA2-037",
+      "topic": "Short-Term Decision Making",
+      "difficulty": "medium",
+      "question": "Budgeted sales: 10,000 units. Break-even point: 8,000 units. What is the margin of safety expressed as a percentage of budgeted sales?",
+      "options": {
+        "A": "20%",
+        "B": "25%",
+        "C": "80%",
+        "D": "8%"
+      },
+      "correct": "A",
+      "explanation": "Margin of safety % = (Budgeted sales - Break-even) / Budgeted sales = (10,000 - 8,000) / 10,000 = 20%. The 25% distractor comes from dividing the margin (2,000) by the break-even volume (8,000) rather than by budgeted sales."
+    },
+    {
+      "id": "BA2-038",
+      "topic": "Short-Term Decision Making",
+      "difficulty": "hard",
+      "question": "Product X: contribution £12, requires 3 kg of a scarce material. Product Y: contribution £10, requires 2 kg. Only 5,000 kg of material is available. Which product should be prioritised?",
+      "options": {
+        "A": "Product X, because it generates higher contribution per unit",
+        "B": "Product Y, because it generates higher contribution per kg of scarce material",
+        "C": "Product X, because it uses more material and absorbs fixed overhead faster",
+        "D": "Product Y, because it uses less material per unit"
+      },
+      "correct": "B",
+      "explanation": "Contribution per kg: Product X = £12/3 = £4.00/kg; Product Y = £10/2 = £5.00/kg. When a resource is scarce, production priority goes to the product with the highest contribution per unit of the binding constraint. Product Y generates more value per kilogram despite its lower absolute contribution per unit."
+    },
+    {
+      "id": "BA2-039",
+      "topic": "Short-Term Decision Making",
+      "difficulty": "easy",
+      "question": "Which of the following is a relevant cost for a short-term decision?",
+      "options": {
+        "A": "Historical costs already incurred and paid (sunk costs)",
+        "B": "Allocated head office overheads that will not change with the decision",
+        "C": "Future incremental cash flows that arise directly as a result of the decision",
+        "D": "Depreciation on existing equipment already purchased"
+      },
+      "correct": "C",
+      "explanation": "Relevant costs are future, incremental, and cash-based — they change as a direct result of the decision being evaluated. Sunk costs (already spent), non-incremental allocated overheads, and non-cash depreciation charges on existing assets are all irrelevant."
+    },
+    {
+      "id": "BA2-040",
+      "topic": "Short-Term Decision Making",
+      "difficulty": "medium",
+      "question": "Selling price: £40/unit. Variable cost: £25/unit. Fixed costs: £90,000. How many units must be sold to achieve a target profit of £30,000?",
+      "options": {
+        "A": "6,000 units",
+        "B": "7,500 units",
+        "C": "8,000 units",
+        "D": "5,600 units"
+      },
+      "correct": "C",
+      "explanation": "Contribution per unit = £40 - £25 = £15. Required contribution = Fixed costs + Target profit = £90,000 + £30,000 = £120,000. Required units = £120,000 / £15 = 8,000. Dividing only fixed costs by contribution gives 6,000 — the break-even point, not the target profit level."
+    },
+    {
+      "id": "BA2-041",
+      "topic": "Short-Term Decision Making",
+      "difficulty": "hard",
+      "question": "A company makes a component at a variable cost of £18 and an absorbed fixed overhead of £6 per unit. An external supplier offers the same component for £20 per unit. The fixed overheads are unavoidable. Should the company make or buy?",
+      "options": {
+        "A": "Buy, because £20 < £24 total internal production cost",
+        "B": "Make, because the relevant cost of making is £18, below the £20 buy price",
+        "C": "Buy, because the external price is below variable cost",
+        "D": "Indeterminate without knowing current capacity utilisation"
+      },
+      "correct": "B",
+      "explanation": "The relevant cost of making is the variable cost (£18), because the £6 fixed overhead is unavoidable regardless of the decision and therefore irrelevant. At £18 variable cost to make versus £20 to buy, internal production saves £2 per unit. Including unavoidable fixed costs in the make-or-buy comparison is a fundamental decision-making error."
+    },
+    {
+      "id": "BA2-042",
+      "topic": "Short-Term Decision Making",
+      "difficulty": "hard",
+      "question": "Product A: contribution £20, requires 4 machine hours. Product B: contribution £15, requires 2 machine hours. Maximum demand: A = 500 units, B = 800 units. Available machine hours: 2,800. What is the optimal production plan?",
+      "options": {
+        "A": "500 A, 400 B",
+        "B": "300 A, 800 B",
+        "C": "500 A, 300 B",
+        "D": "400 A, 600 B"
+      },
+      "correct": "B",
+      "explanation": "Contribution per machine hour: A = £20/4 = £5.00; B = £15/2 = £7.50. Rank B first. Produce 800 B × 2 hrs = 1,600 hours used. Remaining hours: 2,800 - 1,600 = 1,200 hours → 1,200/4 = 300 units of A. Total contribution = (300 × £20) + (800 × £15) = £18,000. Option A uses all 2,800 hours (500×4 + 400×2) but yields only £16,000 contribution."
+    },
+    {
+      "id": "BA2-043",
+      "topic": "Forecasting Techniques",
+      "difficulty": "easy",
+      "question": "Which of the following best describes the seasonal component of a time series?",
+      "options": {
+        "A": "Long-term upward or downward movement in the data over many years",
+        "B": "Random, unpredictable fluctuations in the data",
+        "C": "Regular, repeating patterns within a year linked to seasons or calendar events",
+        "D": "Fluctuations that mirror the broader economic business cycle over several years"
+      },
+      "correct": "C",
+      "explanation": "The seasonal component captures regular within-year patterns — higher retail sales in December, lower construction activity in winter. Trend is the long-term directional movement; cyclical variation follows the multi-year economic cycle; random variation is unexplained noise."
+    },
+    {
+      "id": "BA2-044",
+      "topic": "Forecasting Techniques",
+      "difficulty": "medium",
+      "question": "Monthly sales (units): January 200, February 240, March 220, April 260, May 300. What is the 3-month moving average centred on March?",
+      "options": {
+        "A": "213",
+        "B": "220",
+        "C": "240",
+        "D": "253"
+      },
+      "correct": "C",
+      "explanation": "3-month moving average centred on March = (February + March + April) / 3 = (240 + 220 + 260) / 3 = 720 / 3 = 240. The common error is using January instead of April: (200 + 240 + 220)/3 = 220, which centres on February, not March."
+    },
+    {
+      "id": "BA2-045",
+      "topic": "Forecasting Techniques",
+      "difficulty": "medium",
+      "question": "In an additive time series model, the actual value (Y) is expressed as:",
+      "options": {
+        "A": "Y = T × S × C × R",
+        "B": "Y = T + S + C + R",
+        "C": "Y = T × (S + R)",
+        "D": "Y = T + S × R"
+      },
+      "correct": "B",
+      "explanation": "The additive model expresses the actual value as the sum of Trend (T), Seasonal (S), Cyclical (C), and Random/residual (R) components. The multiplicative model (Y = T × S × C × R) is used when seasonal variation grows proportionally as the trend rises."
+    },
+    {
+      "id": "BA2-046",
+      "topic": "Forecasting Techniques",
+      "difficulty": "hard",
+      "question": "Trend sales for Q1 are estimated at £52,000. The seasonal component for Q1 in the additive model is -£8,000. What is the forecast for Q1 actual sales?",
+      "options": {
+        "A": "£60,000",
+        "B": "£52,000",
+        "C": "£44,000",
+        "D": "£46,000"
+      },
+      "correct": "C",
+      "explanation": "In the additive model: Forecast = Trend + Seasonal component = £52,000 + (-£8,000) = £44,000. Q1 is below-trend, so actual sales are expected to be less than the trend value. Adding £8,000 (option A) reverses the sign incorrectly — a common error when seasonal components are negative."
+    },
+    {
+      "id": "BA2-047",
+      "topic": "Forecasting Techniques",
+      "difficulty": "medium",
+      "question": "In a simple linear regression equation Y = a + bX, the coefficient b represents:",
+      "options": {
+        "A": "The value of Y when X equals zero",
+        "B": "The rate of change in Y for each unit increase in X",
+        "C": "The degree of linear correlation between X and Y",
+        "D": "The forecast error of the regression model"
+      },
+      "correct": "B",
+      "explanation": "In Y = a + bX, 'a' is the intercept (value of Y when X = 0) and 'b' is the slope — the marginal change in Y per unit increase in X. The correlation coefficient (r) measures strength of association, which is a separate statistic not given by the regression coefficients."
+    },
+    {
+      "id": "BA2-048",
+      "topic": "Forecasting Techniques",
+      "difficulty": "medium",
+      "question": "A correlation coefficient (r) of -0.92 between advertising expenditure and product returns indicates:",
+      "options": {
+        "A": "A weak positive relationship between the two variables",
+        "B": "A strong positive relationship between the two variables",
+        "C": "A strong negative linear relationship between the two variables",
+        "D": "No meaningful relationship between the two variables"
+      },
+      "correct": "C",
+      "explanation": "An r value of -0.92 is close to -1, indicating a strong negative linear relationship: as advertising spend rises, product returns fall significantly. Values near zero indicate no linear relationship; positive values indicate a positive relationship."
+    },
+    {
+      "id": "BA2-049",
+      "topic": "Forecasting Techniques",
+      "difficulty": "easy",
+      "question": "If the price index in Year 1 (base year) is 100 and in Year 3 is 118, what does this indicate?",
+      "options": {
+        "A": "Prices fell by 18% between Year 1 and Year 3",
+        "B": "Prices rose by 18% between Year 1 and Year 3",
+        "C": "Year 3 prices are 18 times higher than Year 1 prices",
+        "D": "The absolute price level in Year 3 is 18"
+      },
+      "correct": "B",
+      "explanation": "An index of 118 relative to a base of 100 means prices have increased by 18 percentage points (i.e., 18%) since the base year. The index is a ratio expressed per 100, not an absolute price or a multiple — so prices are 18% higher, not 18 times higher."
+    },
+    {
+      "id": "BA2-050",
+      "topic": "Forecasting Techniques",
+      "difficulty": "hard",
+      "question": "Which of the following is a fundamental limitation of using time series analysis for business forecasting?",
+      "options": {
+        "A": "It requires access to competitors' historical sales data",
+        "B": "It assumes that historical patterns will continue unchanged into the future",
+        "C": "It cannot be applied to quarterly or monthly data, only annual figures",
+        "D": "It requires a minimum of 1,000 historical observations to produce reliable results"
+      },
+      "correct": "B",
+      "explanation": "Time series forecasting extrapolates from historical trend and seasonal patterns, so its accuracy depends on those patterns persisting. Structural breaks — new market entrants, regulatory changes, technological disruption — can render historical patterns obsolete instantly. The method works across any data frequency and does not require very large samples."
+    }
+  ],
+  "BA3": [
+    {
+      "id": "BA3-001",
+      "topic": "Double-Entry Bookkeeping and Accounting Equation",
+      "difficulty": "easy",
+      "question": "A business purchases office equipment for £8,000 cash. Which of the following correctly records this transaction?",
+      "options": {
+        "A": "Debit Cash £8,000; Credit Equipment £8,000",
+        "B": "Debit Equipment £8,000; Credit Cash £8,000",
+        "C": "Debit Equipment £8,000; Credit Accounts Payable £8,000",
+        "D": "Debit Cash £8,000; Credit Capital £8,000"
+      },
+      "correct": "B",
+      "explanation": "Purchasing an asset for cash increases one asset (equipment) and decreases another (cash). Assets increase with a debit, so equipment is debited; cash is credited as it falls. Option A has the entries reversed."
+    },
+    {
+      "id": "BA3-002",
+      "topic": "Double-Entry Bookkeeping and Accounting Equation",
+      "difficulty": "easy",
+      "question": "A company receives £5,000 cash from a credit customer in settlement of their account. Which entries are correct?",
+      "options": {
+        "A": "Debit Revenue £5,000; Credit Cash £5,000",
+        "B": "Debit Cash £5,000; Credit Revenue £5,000",
+        "C": "Debit Cash £5,000; Credit Accounts Receivable £5,000",
+        "D": "Debit Accounts Receivable £5,000; Credit Cash £5,000"
+      },
+      "correct": "C",
+      "explanation": "Receiving cash from a credit customer converts a receivable into cash: debit Cash (asset increase) and credit Accounts Receivable (asset decrease). Revenue was already recorded when the sale occurred on credit, so crediting Revenue again would double-count it."
+    },
+    {
+      "id": "BA3-003",
+      "topic": "Double-Entry Bookkeeping and Accounting Equation",
+      "difficulty": "medium",
+      "question": "A business borrows £20,000 from a bank, repayable in five years. Which of the following correctly describes the impact on the accounting equation?",
+      "options": {
+        "A": "Assets increase by £20,000; equity increases by £20,000",
+        "B": "Assets increase by £20,000; liabilities increase by £20,000",
+        "C": "Liabilities increase by £20,000; equity decreases by £20,000",
+        "D": "Assets decrease by £20,000; liabilities increase by £20,000"
+      },
+      "correct": "B",
+      "explanation": "Borrowing cash increases the asset (bank) and simultaneously creates a liability (bank loan). Equity is unaffected because no profit, loss, or owner contribution has occurred. The accounting equation Assets = Liabilities + Equity remains balanced."
+    },
+    {
+      "id": "BA3-004",
+      "topic": "Double-Entry Bookkeeping and Accounting Equation",
+      "difficulty": "medium",
+      "question": "A trial balance is extracted and the debit column totals £342,800 while the credit column totals £340,200. Which of the following could explain the difference?",
+      "options": {
+        "A": "A credit sale of £2,600 was recorded but not posted to the trial balance",
+        "B": "A payment of £1,300 was debited to both the bank account and the supplier account",
+        "C": "A purchase of £2,600 was debited correctly but not credited to accounts payable",
+        "D": "The same transaction was recorded twice on both sides of the ledger"
+      },
+      "correct": "B",
+      "explanation": "Debiting both sides of a payment adds £1,300 to debits and removes £1,300 from credits, creating a £2,600 imbalance (matching the difference). Option C would leave debits higher than credits by £2,600, but only one side is wrong — not both."
+    },
+    {
+      "id": "BA3-005",
+      "topic": "Double-Entry Bookkeeping and Accounting Equation",
+      "difficulty": "medium",
+      "question": "Assets: £95,000. Liabilities: £38,000. What is the equity of the business?",
+      "options": {
+        "A": "£133,000",
+        "B": "£38,000",
+        "C": "£57,000",
+        "D": "£95,000"
+      },
+      "correct": "C",
+      "explanation": "Equity = Assets - Liabilities = £95,000 - £38,000 = £57,000. The accounting equation rearranges to Equity = Assets - Liabilities. Option A adds the two figures, which gives total funds invested but does not isolate equity."
+    },
+    {
+      "id": "BA3-006",
+      "topic": "Double-Entry Bookkeeping and Accounting Equation",
+      "difficulty": "hard",
+      "question": "A company pays £3,600 wages in cash but incorrectly debits the cash account and credits the wages expense account. What is the effect on profit?",
+      "options": {
+        "A": "Profit is overstated by £3,600",
+        "B": "Profit is understated by £3,600",
+        "C": "Profit is overstated by £7,200",
+        "D": "Profit is unaffected because the double entry still balances"
+      },
+      "correct": "C",
+      "explanation": "The correct entry reduces cash (credit) and increases wages expense (debit), reducing profit. The erroneous entry increases cash (debit) and reduces wages expense (credit). Compared to correct treatment, cash is overstated by £7,200 (correct credit omitted, wrong debit added) and profit is overstated by £7,200 because the £3,600 expense is missing and an additional £3,600 credit was applied to the expense account. Total impact on profit = 2 × £3,600 = £7,200 overstatement."
+    },
+    {
+      "id": "BA3-007",
+      "topic": "Double-Entry Bookkeeping and Accounting Equation",
+      "difficulty": "easy",
+      "question": "Which of the following accounts normally carries a credit balance?",
+      "options": {
+        "A": "Accounts receivable",
+        "B": "Cash at bank",
+        "C": "Accounts payable",
+        "D": "Inventory"
+      },
+      "correct": "C",
+      "explanation": "Accounts payable is a liability, and liabilities normally carry credit balances. Assets (accounts receivable, cash, inventory) normally carry debit balances. This is a fundamental double-entry principle that underpins the trial balance structure."
+    },
+    {
+      "id": "BA3-008",
+      "topic": "Double-Entry Bookkeeping and Accounting Equation",
+      "difficulty": "medium",
+      "question": "A business owner withdraws £4,000 cash for personal use. How should this be recorded?",
+      "options": {
+        "A": "Debit Wages Expense £4,000; Credit Cash £4,000",
+        "B": "Debit Drawings £4,000; Credit Cash £4,000",
+        "C": "Debit Cash £4,000; Credit Capital £4,000",
+        "D": "Debit Drawings £4,000; Credit Revenue £4,000"
+      },
+      "correct": "B",
+      "explanation": "Owner withdrawals are debited to the Drawings account (which reduces equity) and credited to Cash. They are not a business expense and must not be debited to wages, as that would misstate operating profit. Drawings reduce the owner's capital balance at the year end."
+    },
+    {
+      "id": "BA3-009",
+      "topic": "Preparing Financial Statements",
+      "difficulty": "easy",
+      "question": "Revenue: £180,000. Opening inventory: £12,000. Purchases: £90,000. Closing inventory: £15,000. What is gross profit?",
+      "options": {
+        "A": "£90,000",
+        "B": "£93,000",
+        "C": "£87,000",
+        "D": "£78,000"
+      },
+      "correct": "B",
+      "explanation": "Cost of sales = Opening inventory + Purchases - Closing inventory = £12,000 + £90,000 - £15,000 = £87,000. Gross profit = £180,000 - £87,000 = £93,000. A common error is excluding the inventory adjustment and using purchases (£90,000) as cost of sales, giving £90,000 gross profit."
+    },
+    {
+      "id": "BA3-010",
+      "topic": "Preparing Financial Statements",
+      "difficulty": "medium",
+      "question": "Which of the following items appears in the investing activities section of a cash flow statement?",
+      "options": {
+        "A": "Repayment of a bank loan",
+        "B": "Cash received from customers",
+        "C": "Purchase of a new factory building",
+        "D": "Payment of a dividend to shareholders"
+      },
+      "correct": "C",
+      "explanation": "Investing activities cover cash flows related to acquisition and disposal of non-current assets. Loan repayment and dividend payments are financing activities; cash received from customers is an operating activity."
+    },
+    {
+      "id": "BA3-011",
+      "topic": "Preparing Financial Statements",
+      "difficulty": "medium",
+      "question": "Which of the following is classified as a current asset on a statement of financial position?",
+      "options": {
+        "A": "A patent with five years remaining useful life",
+        "B": "A mortgage on the company's premises, repayable over 20 years",
+        "C": "Trade receivables expected to be collected within three months",
+        "D": "A factory building used in production"
+      },
+      "correct": "C",
+      "explanation": "Current assets are expected to convert to cash within one year. Trade receivables due within months qualify. Patents and factory buildings are non-current assets; a 20-year mortgage is a non-current liability."
+    },
+    {
+      "id": "BA3-012",
+      "topic": "Preparing Financial Statements",
+      "difficulty": "hard",
+      "question": "Net profit: £42,000. Depreciation: £8,000. Increase in trade receivables: £5,000. Decrease in inventory: £3,000. Increase in trade payables: £4,000. What is net cash from operating activities (indirect method)?",
+      "options": {
+        "A": "£52,000",
+        "B": "£40,000",
+        "C": "£48,000",
+        "D": "£34,000"
+      },
+      "correct": "A",
+      "explanation": "Start with net profit: £42,000. Add back depreciation (non-cash): +£8,000. Increase in receivables uses cash: -£5,000. Decrease in inventory releases cash: +£3,000. Increase in payables defers cash out: +£4,000. Total = £42,000 + £8,000 - £5,000 + £3,000 + £4,000 = £52,000. A common error is adding the receivables increase rather than subtracting it."
+    },
+    {
+      "id": "BA3-013",
+      "topic": "Preparing Financial Statements",
+      "difficulty": "medium",
+      "question": "Which section of the statement of financial position includes a bank overdraft?",
+      "options": {
+        "A": "Non-current assets",
+        "B": "Non-current liabilities",
+        "C": "Current liabilities",
+        "D": "Equity"
+      },
+      "correct": "C",
+      "explanation": "A bank overdraft is repayable on demand and is therefore classified as a current liability. Even if in practice it is rolled over repeatedly, accounting standards require classification by legal repayment terms. Non-current liabilities are obligations due beyond one year."
+    },
+    {
+      "id": "BA3-014",
+      "topic": "Preparing Financial Statements",
+      "difficulty": "easy",
+      "question": "Retained earnings on the statement of financial position represent:",
+      "options": {
+        "A": "Cash held in the company's bank account",
+        "B": "Total profits earned by the company since incorporation, less dividends paid",
+        "C": "The nominal value of shares issued to shareholders",
+        "D": "The surplus arising from revaluing non-current assets above historical cost"
+      },
+      "correct": "B",
+      "explanation": "Retained earnings are the accumulated net profits kept within the business after distributions to shareholders. They do not represent a cash balance. Share capital is the nominal value of issued shares; a revaluation surplus is a separate equity reserve."
+    },
+    {
+      "id": "BA3-015",
+      "topic": "Preparing Financial Statements",
+      "difficulty": "hard",
+      "question": "Revenue: £500,000. Cost of sales: £300,000. Distribution costs: £40,000. Administrative expenses: £60,000. Finance costs: £10,000. Tax: £18,000. What is profit after tax?",
+      "options": {
+        "A": "£90,000",
+        "B": "£72,000",
+        "C": "£100,000",
+        "D": "£82,000"
+      },
+      "correct": "B",
+      "explanation": "Gross profit = £500,000 - £300,000 = £200,000. Operating profit = £200,000 - £40,000 - £60,000 = £100,000. Profit before tax = £100,000 - £10,000 = £90,000. Profit after tax = £90,000 - £18,000 = £72,000. Stopping at operating profit (£100,000) is the most common error when not reading the question carefully."
+    },
+    {
+      "id": "BA3-016",
+      "topic": "Preparing Financial Statements",
+      "difficulty": "medium",
+      "question": "Which of the following is NOT typically shown in the financing activities section of a cash flow statement?",
+      "options": {
+        "A": "Cash proceeds from issuing new shares",
+        "B": "Cash paid to redeem debentures",
+        "C": "Dividends paid to shareholders",
+        "D": "Cash paid to acquire plant and equipment"
+      },
+      "correct": "D",
+      "explanation": "Acquisition of plant and equipment is an investing activity (long-term asset purchase), not financing. Financing activities cover changes in the size and composition of equity and borrowings, including share issuances, debt repayments, and dividend payments under UK GAAP and IFRS respectively."
+    },
+    {
+      "id": "BA3-017",
+      "topic": "Accruals and Prepayments",
+      "difficulty": "easy",
+      "question": "A company pays £12,000 for a one-year insurance policy on 1 October. The year-end is 31 December. What is the prepayment at 31 December?",
+      "options": {
+        "A": "£3,000",
+        "B": "£9,000",
+        "C": "£12,000",
+        "D": "£6,000"
+      },
+      "correct": "B",
+      "explanation": "Three months of the policy have expired by 31 December (October, November, December). Expense recognised = 3/12 × £12,000 = £3,000. Prepayment = remaining 9 months = 9/12 × £12,000 = £9,000. A common error is recording the full £12,000 as the prepayment, forgetting to recognise the expense for the elapsed period."
+    },
+    {
+      "id": "BA3-018",
+      "topic": "Accruals and Prepayments",
+      "difficulty": "medium",
+      "question": "At the year end, a company has received £2,400 in advance from a customer for services to be delivered next year. How should this be classified?",
+      "options": {
+        "A": "Revenue in the current period's income statement",
+        "B": "A current asset (accrued income)",
+        "C": "A current liability (deferred income)",
+        "D": "A non-current liability if delivery is more than one year away"
+      },
+      "correct": "C",
+      "explanation": "Cash received before the related service is performed is deferred income — a current liability, because the company owes the customer the service. It cannot be recognised as revenue until the performance obligation is satisfied. Accrued income is the opposite: revenue earned but not yet received."
+    },
+    {
+      "id": "BA3-019",
+      "topic": "Accruals and Prepayments",
+      "difficulty": "medium",
+      "question": "Electricity expense per quarter: £1,500. The year-end falls mid-quarter and the last bill received covered only the first two months of the final quarter. What accrual is required?",
+      "options": {
+        "A": "£500",
+        "B": "£1,000",
+        "C": "£1,500",
+        "D": "£3,000"
+      },
+      "correct": "A",
+      "explanation": "One month of electricity remains unrecognised and unbilled at year end. Monthly charge = £1,500 / 3 = £500. Accrual = £500 for the outstanding month. Recording the full quarterly charge (£1,500) would double-count the two months already invoiced."
+    },
+    {
+      "id": "BA3-020",
+      "topic": "Accruals and Prepayments",
+      "difficulty": "hard",
+      "question": "Opening accrued expense: £2,200. Closing accrued expense: £3,100. Cash paid for the expense during the year: £18,400. What is the expense charge in the income statement?",
+      "options": {
+        "A": "£18,400",
+        "B": "£17,500",
+        "C": "£19,300",
+        "D": "£20,600"
+      },
+      "correct": "C",
+      "explanation": "Income statement expense = Cash paid + Closing accrual - Opening accrual = £18,400 + £3,100 - £2,200 = £19,300. The closing accrual adds unpaid expense to the period; the opening accrual represented last year's expense paid this year and must be deducted. Using cash paid directly (£18,400) is correct only if there are no accruals — a common error."
+    },
+    {
+      "id": "BA3-021",
+      "topic": "Accruals and Prepayments",
+      "difficulty": "medium",
+      "question": "Rent paid during the year: £24,000. Opening prepayment: £2,000. Closing prepayment: £3,500. What is the rent expense in the income statement?",
+      "options": {
+        "A": "£22,500",
+        "B": "£25,500",
+        "C": "£24,000",
+        "D": "£29,500"
+      },
+      "correct": "A",
+      "explanation": "Rent expense = Cash paid - Closing prepayment + Opening prepayment = £24,000 - £3,500 + £2,000 = £22,500. The closing prepayment represents rent paid in advance for next period (reduce this period's expense); the opening prepayment was last year's advance that now relates to this period (add it back). Treating cash paid as the expense (£24,000) is the most common error."
+    },
+    {
+      "id": "BA3-022",
+      "topic": "Accruals and Prepayments",
+      "difficulty": "easy",
+      "question": "At year end, a company has earned £4,500 in interest on an investment but has not yet received it. How should this be treated?",
+      "options": {
+        "A": "Ignore it until cash is received",
+        "B": "Record it as accrued income (asset) and interest receivable in the income statement",
+        "C": "Record it as deferred income (liability) until cash is received",
+        "D": "Debit cash and credit interest income for £4,500"
+      },
+      "correct": "B",
+      "explanation": "Under the accruals concept, income is recognised when earned, not when received. The unpaid interest is accrued income — a current asset on the statement of financial position — and the matching credit goes to interest income in the income statement. Deferring it until cash is received violates the accruals basis."
+    },
+    {
+      "id": "BA3-023",
+      "topic": "Inventory Valuation",
+      "difficulty": "medium",
+      "question": "A company purchases inventory in three batches: 100 units at £10, 150 units at £12, and 100 units at £14. It sells 200 units. What is the cost of sales using FIFO?",
+      "options": {
+        "A": "£2,300",
+        "B": "£2,400",
+        "C": "£2,200",
+        "D": "£2,533"
+      },
+      "correct": "C",
+      "explanation": "FIFO assumes the earliest units purchased are sold first. Sell all 100 units from batch 1 at £10 = £1,000; then sell 100 of the 150 units from batch 2 at £12 = £1,200. Total cost of sales = £2,200. Option A (£2,300) is a common error from incorrectly mixing batch quantities or miscounting the units drawn from each layer."
+    },
+    {
+      "id": "BA3-024",
+      "topic": "Inventory Valuation",
+      "difficulty": "medium",
+      "question": "A company purchases inventory: 80 units at £8, then 120 units at £11. It sells 100 units. Using FIFO, what is the closing inventory value?",
+      "options": {
+        "A": "£880",
+        "B": "£1,000",
+        "C": "£1,100",
+        "D": "£960"
+      },
+      "correct": "C",
+      "explanation": "Under FIFO, the 80 units at £8 are sold first, then 20 of the £11 batch are sold. Closing inventory = remaining 100 units at £11 = £1,100. A common error is applying a weighted average (AVCO) rather than FIFO, which gives (200 total units at £9.80 average) × 100 remaining = £980."
+    },
+    {
+      "id": "BA3-025",
+      "topic": "Inventory Valuation",
+      "difficulty": "medium",
+      "question": "Using the same data as BA3-024 (80 units at £8, 120 units at £11, 100 units sold), what is the weighted average cost per unit and the closing inventory value?",
+      "options": {
+        "A": "£9.50/unit; £950",
+        "B": "£9.80/unit; £980",
+        "C": "£9.00/unit; £900",
+        "D": "£11.00/unit; £1,100"
+      },
+      "correct": "B",
+      "explanation": "Total cost = (80 × £8) + (120 × £11) = £640 + £1,320 = £1,960. Total units = 200. AVCO = £1,960 / 200 = £9.80/unit. Closing inventory = 100 × £9.80 = £980. The £9.50 distractor comes from averaging the two prices arithmetically (£8 + £11)/2 without weighting for quantities."
+    },
+    {
+      "id": "BA3-026",
+      "topic": "Inventory Valuation",
+      "difficulty": "hard",
+      "question": "Under IAS 2, inventory must be written down when:",
+      "options": {
+        "A": "Its market selling price falls below original cost",
+        "B": "Net realisable value falls below cost",
+        "C": "The inventory has been held for more than 12 months",
+        "D": "Weighted average cost exceeds FIFO cost for the same items"
+      },
+      "correct": "B",
+      "explanation": "IAS 2 requires inventory to be measured at the lower of cost and net realisable value (NRV). NRV is the estimated selling price less estimated costs to complete and sell. A fall in market price alone does not trigger write-down unless NRV also falls below carrying cost. Age alone is not a write-down trigger."
+    },
+    {
+      "id": "BA3-027",
+      "topic": "Inventory Valuation",
+      "difficulty": "easy",
+      "question": "Under IAS 2, which inventory cost method is NOT permitted?",
+      "options": {
+        "A": "First-in, first-out (FIFO)",
+        "B": "Weighted average cost (AVCO)",
+        "C": "Last-in, first-out (LIFO)",
+        "D": "Standard cost (where it approximates actual cost)"
+      },
+      "correct": "C",
+      "explanation": "IAS 2 explicitly prohibits the LIFO method because it can result in inventory values that do not reflect recent market conditions and can be manipulated to manage reported profits. FIFO, AVCO, and standard cost (when it approximates actual cost) are all permitted."
+    },
+    {
+      "id": "BA3-028",
+      "topic": "Inventory Valuation",
+      "difficulty": "medium",
+      "question": "Compared to AVCO, using FIFO during a period of rising prices will result in:",
+      "options": {
+        "A": "Lower closing inventory values and higher cost of sales",
+        "B": "Higher closing inventory values and lower cost of sales",
+        "C": "Identical cost of sales but different inventory values",
+        "D": "Lower profit because FIFO assigns higher costs to sales"
+      },
+      "correct": "B",
+      "explanation": "FIFO charges earlier (lower) costs to cost of sales during price rises, leaving more recent (higher) costs in closing inventory. This produces lower cost of sales, higher gross profit, and higher inventory values than AVCO — which blends old and new costs throughout."
+    },
+    {
+      "id": "BA3-029",
+      "topic": "Depreciation Methods",
+      "difficulty": "easy",
+      "question": "An asset costs £50,000 and has a residual value of £5,000 with a useful life of 9 years. What is the annual straight-line depreciation charge?",
+      "options": {
+        "A": "£5,000",
+        "B": "£5,556",
+        "C": "£6,250",
+        "D": "£50,000"
+      },
+      "correct": "A",
+      "explanation": "Straight-line depreciation = (Cost - Residual value) / Useful life = (£50,000 - £5,000) / 9 = £45,000 / 9 = £5,000 per year. The £5,556 distractor omits the residual value: £50,000 / 9 = £5,556."
+    },
+    {
+      "id": "BA3-030",
+      "topic": "Depreciation Methods",
+      "difficulty": "medium",
+      "question": "An asset costs £40,000 and is depreciated at 25% reducing balance per year. What is the carrying amount at the end of Year 2?",
+      "options": {
+        "A": "£20,000",
+        "B": "£22,500",
+        "C": "£25,000",
+        "D": "£30,000"
+      },
+      "correct": "B",
+      "explanation": "Year 1: carrying amount = £40,000 - (25% × £40,000) = £40,000 - £10,000 = £30,000. Year 2: carrying amount = £30,000 - (25% × £30,000) = £30,000 - £7,500 = £22,500. The £20,000 distractor applies straight-line logic (50% of cost over 2 years) rather than the declining balance."
+    },
+    {
+      "id": "BA3-031",
+      "topic": "Depreciation Methods",
+      "difficulty": "medium",
+      "question": "An asset with a carrying amount of £18,000 is sold for £21,500. The profit or loss on disposal is:",
+      "options": {
+        "A": "£3,500 profit",
+        "B": "£3,500 loss",
+        "C": "£21,500 profit",
+        "D": "Indeterminate without knowing the original cost"
+      },
+      "correct": "A",
+      "explanation": "Disposal gain/loss = Proceeds - Carrying amount = £21,500 - £18,000 = £3,500 gain. The original cost is not needed once carrying amount is known — only the net book value (carrying amount) at disposal and sale proceeds are required."
+    },
+    {
+      "id": "BA3-032",
+      "topic": "Depreciation Methods",
+      "difficulty": "hard",
+      "question": "An asset costs £60,000, has a 5-year useful life and no residual value. Using the straight-line method, what is the accumulated depreciation and carrying amount at the end of Year 3?",
+      "options": {
+        "A": "Accumulated depreciation £36,000; carrying amount £24,000",
+        "B": "Accumulated depreciation £24,000; carrying amount £36,000",
+        "C": "Accumulated depreciation £30,000; carrying amount £30,000",
+        "D": "Accumulated depreciation £18,000; carrying amount £42,000"
+      },
+      "correct": "A",
+      "explanation": "Annual depreciation = £60,000 / 5 = £12,000. After 3 years: accumulated depreciation = 3 × £12,000 = £36,000. Carrying amount = £60,000 - £36,000 = £24,000. Option B reverses the two figures — a common presentational error."
+    },
+    {
+      "id": "BA3-033",
+      "topic": "Depreciation Methods",
+      "difficulty": "medium",
+      "question": "Under IAS 16, when an asset is revalued upward, the revaluation surplus is recorded:",
+      "options": {
+        "A": "As income in the income statement for the period",
+        "B": "As a reduction in accumulated depreciation on the asset",
+        "C": "In other comprehensive income and accumulated in a revaluation reserve in equity",
+        "D": "As a credit to retained earnings in equity"
+      },
+      "correct": "C",
+      "explanation": "IAS 16 requires upward revaluations to be recognised in other comprehensive income (OCI) and accumulated in a revaluation reserve within equity — not in profit or loss. Taking it to the income statement would overstate reported profit and misrepresent financial performance."
+    },
+    {
+      "id": "BA3-034",
+      "topic": "Depreciation Methods",
+      "difficulty": "easy",
+      "question": "Which of the following best explains why the reducing balance method front-loads depreciation compared to straight-line?",
+      "options": {
+        "A": "It applies a fixed percentage to a declining base, generating higher charges early in the asset's life",
+        "B": "It uses a higher residual value assumption, reducing the depreciable amount over time",
+        "C": "It applies the same annual charge but allocates it differently across quarters",
+        "D": "It ignores residual value, so the full cost is expensed faster"
+      },
+      "correct": "A",
+      "explanation": "The reducing balance method applies a constant percentage rate to the carrying amount, which is highest at the start of the asset's life. Each successive charge is smaller as the base declines, producing higher early charges and smaller later ones — matching the usage pattern of many assets."
+    },
+    {
+      "id": "BA3-035",
+      "topic": "Bank Reconciliations and Control Accounts",
+      "difficulty": "easy",
+      "question": "At month end, the bank statement shows a balance of £8,400. Unpresented cheques total £1,200 and outstanding deposits total £600. What is the adjusted (reconciled) bank balance?",
+      "options": {
+        "A": "£8,400",
+        "B": "£7,800",
+        "C": "£7,200",
+        "D": "£9,000"
+      },
+      "correct": "B",
+      "explanation": "Adjusted bank balance = Bank statement balance - Unpresented cheques + Outstanding deposits = £8,400 - £1,200 + £600 = £7,800. Unpresented cheques have been recorded in the cash book but not yet cleared, so they reduce the bank statement balance to reach the true position."
+    },
+    {
+      "id": "BA3-036",
+      "topic": "Bank Reconciliations and Control Accounts",
+      "difficulty": "medium",
+      "question": "The bank statement shows bank charges of £85 that have not been entered in the cash book. What adjustment is required to the cash book?",
+      "options": {
+        "A": "Debit cash book £85",
+        "B": "Credit cash book £85",
+        "C": "Add £85 to the bank statement balance in the reconciliation",
+        "D": "No adjustment needed — it is a timing difference"
+      },
+      "correct": "B",
+      "explanation": "Bank charges reduce the bank balance and must be credited (reduced) in the cash book to match the bank statement. This is a cash book error/omission, not a timing difference — timing differences are items in the cash book but not yet on the bank statement, or vice versa, that will naturally clear."
+    },
+    {
+      "id": "BA3-037",
+      "topic": "Bank Reconciliations and Control Accounts",
+      "difficulty": "medium",
+      "question": "Opening sales ledger control account balance: £24,000. Credit sales in the period: £85,000. Cash received from customers: £78,000. Discounts allowed: £1,200. What is the closing balance?",
+      "options": {
+        "A": "£29,800",
+        "B": "£31,000",
+        "C": "£29,000",
+        "D": "£30,200"
+      },
+      "correct": "A",
+      "explanation": "Closing balance = Opening balance + Credit sales - Cash received - Discounts allowed = £24,000 + £85,000 - £78,000 - £1,200 = £29,800. Omitting the discounts allowed (£1,200) gives £31,000 — the most common error on control account questions."
+    },
+    {
+      "id": "BA3-038",
+      "topic": "Bank Reconciliations and Control Accounts",
+      "difficulty": "hard",
+      "question": "The purchase ledger control account balance is £41,500 (credit). Individual supplier account balances sum to £39,800. Which of the following errors would fully explain the difference?",
+      "options": {
+        "A": "A £1,700 credit purchase was posted to the control account but omitted from the individual supplier account",
+        "B": "A £1,700 payment was correctly posted to the control account but recorded as £850 in the individual supplier account",
+        "C": "A £850 purchase was entered twice in the control account",
+        "D": "A £1,700 credit note was omitted from the control account but correctly posted in the individual ledger"
+      },
+      "correct": "A",
+      "explanation": "The control account exceeds the list of balances by £1,700. If a £1,700 purchase was posted to the control account (increasing it) but not to the individual ledger (leaving that total unchanged), the control account would be £1,700 higher — matching the difference. Option B gives only an £850 discrepancy in the individual accounts."
+    },
+    {
+      "id": "BA3-039",
+      "topic": "Bank Reconciliations and Control Accounts",
+      "difficulty": "medium",
+      "question": "A suspense account is most appropriately used when:",
+      "options": {
+        "A": "A business wants to defer recognising a loss until the next accounting period",
+        "B": "A trial balance does not balance and the difference is posted temporarily pending investigation",
+        "C": "A new asset is purchased but the invoice has not yet been approved",
+        "D": "Revenue needs to be deferred because the performance obligation is unsatisfied"
+      },
+      "correct": "B",
+      "explanation": "A suspense account is a temporary holding account used when a trial balance fails to balance — the difference is posted there until the error is identified and corrected. It is not a mechanism to defer income or expenditure, which would violate the accruals concept."
+    },
+    {
+      "id": "BA3-040",
+      "topic": "Bank Reconciliations and Control Accounts",
+      "difficulty": "hard",
+      "question": "Cash book balance: £6,200 (debit). Bank statement balance: £7,500 (credit). Unpresented cheques: £1,800. Outstanding lodgements: £400. Bank interest of £100 credited on the statement but not yet entered in the cash book. After making all necessary adjustments, which of the following is correct?",
+      "options": {
+        "A": "The balances do not reconcile — there is a £200 unexplained difference",
+        "B": "Both balances reconcile at £6,300 after adjusting the cash book for interest",
+        "C": "Both balances reconcile at £6,100",
+        "D": "The reconciled balance is £7,500"
+      },
+      "correct": "A",
+      "explanation": "Adjusted cash book = £6,200 + £100 (interest not yet recorded) = £6,300. Adjusted bank statement = £7,500 - £1,800 (unpresented cheques) + £400 (outstanding lodgements) = £6,100. The two adjusted figures (£6,300 vs £6,100) do not agree — a £200 difference remains unexplained, indicating a recording error elsewhere. Option B is wrong because £6,300 is only the adjusted cash book figure, not the reconciled total."
+    },
+    {
+      "id": "BA3-041",
+      "topic": "Bank Reconciliations and Control Accounts",
+      "difficulty": "easy",
+      "question": "Discounts allowed to credit customers are recorded in the sales ledger control account as:",
+      "options": {
+        "A": "A debit entry, reducing the amount owed by customers",
+        "B": "A credit entry, reducing the amount owed by customers",
+        "C": "A credit entry, increasing the amount owed by customers",
+        "D": "No entry in the control account — only in individual customer accounts"
+      },
+      "correct": "B",
+      "explanation": "Discounts allowed reduce what the customer owes, so the receivable (asset) decreases. Assets decrease with a credit entry. The contra entry is a debit to discounts allowed expense in the income statement. The control account reflects all movements on the collective customer balance."
+    },
+    {
+      "id": "BA3-042",
+      "topic": "IAS/IFRS Basics",
+      "difficulty": "easy",
+      "question": "Which qualitative characteristic of financial information ensures that it is free from material error and bias?",
+      "options": {
+        "A": "Relevance",
+        "B": "Faithful representation",
+        "C": "Comparability",
+        "D": "Timeliness"
+      },
+      "correct": "B",
+      "explanation": "Faithful representation requires financial information to be complete, neutral, and free from material error. Relevance ensures information is capable of influencing decisions. These two are the fundamental qualitative characteristics in the IFRS Conceptual Framework."
+    },
+    {
+      "id": "BA3-043",
+      "topic": "IAS/IFRS Basics",
+      "difficulty": "medium",
+      "question": "Under IAS 37, a provision should be recognised when:",
+      "options": {
+        "A": "A loss is possible and can be estimated with reasonable accuracy",
+        "B": "There is a present obligation, a probable outflow of resources, and a reliable estimate can be made",
+        "C": "Management intends to incur a cost in the following accounting period",
+        "D": "A contingent asset of equal value has been recognised in the same period"
+      },
+      "correct": "B",
+      "explanation": "IAS 37 requires all three recognition criteria to be met simultaneously: a present obligation (legal or constructive) arising from a past event, a probable outflow of economic benefits, and a reliable estimate of the amount. Possible (but not probable) outcomes are disclosed as contingent liabilities, not recognised as provisions."
+    },
+    {
+      "id": "BA3-044",
+      "topic": "IAS/IFRS Basics",
+      "difficulty": "medium",
+      "question": "Under IAS 38, which of the following can be recognised as an intangible asset?",
+      "options": {
+        "A": "Internally generated goodwill",
+        "B": "Research expenditure on a new drug compound",
+        "C": "A separately acquired patent with an identifiable future economic benefit",
+        "D": "Brand names developed through internal marketing campaigns"
+      },
+      "correct": "C",
+      "explanation": "IAS 38 permits recognition of separately acquired intangible assets when future economic benefits are probable and cost can be reliably measured. Internally generated goodwill, research expenditure, and internally developed brands are all specifically prohibited from capitalisation."
+    },
+    {
+      "id": "BA3-045",
+      "topic": "IAS/IFRS Basics",
+      "difficulty": "hard",
+      "question": "Under IAS 16, a property is initially measured at:",
+      "options": {
+        "A": "Fair value at the date of the statement of financial position",
+        "B": "Its insured value as declared to the company's insurer",
+        "C": "Cost, including purchase price and directly attributable costs to bring the asset to working condition",
+        "D": "Net realisable value at the time of purchase"
+      },
+      "correct": "C",
+      "explanation": "IAS 16 requires initial recognition at cost, which includes the purchase price plus any directly attributable costs (e.g., installation, legal fees, testing) necessary to bring the asset to its intended working condition. Subsequent measurement may use either the cost model or the revaluation model, but initial recognition is always at cost."
+    },
+    {
+      "id": "BA3-046",
+      "topic": "IAS/IFRS Basics",
+      "difficulty": "medium",
+      "question": "The going concern assumption, as referenced in IAS 1, means that:",
+      "options": {
+        "A": "A company must produce financial statements on an annual basis",
+        "B": "Assets are measured at their break-up values in case the entity ceases trading",
+        "C": "Financial statements are prepared on the assumption the entity will continue operating for the foreseeable future",
+        "D": "The company is required to disclose its expected operating lifespan in the notes"
+      },
+      "correct": "C",
+      "explanation": "The going concern basis assumes the entity will continue operating for at least the next 12 months from the reporting date, so assets and liabilities are not measured at liquidation values. If going concern is doubtful, IAS 1 requires this to be disclosed and a different measurement basis may be appropriate."
+    },
+    {
+      "id": "BA3-047",
+      "topic": "IAS/IFRS Basics",
+      "difficulty": "medium",
+      "question": "Under IAS 2, which costs should NOT be included in the cost of inventory?",
+      "options": {
+        "A": "Import duties paid on raw materials",
+        "B": "Direct labour costs attributable to production",
+        "C": "Storage costs for finished goods awaiting delivery to customers",
+        "D": "Variable production overhead allocated on a systematic basis"
+      },
+      "correct": "C",
+      "explanation": "IAS 2 specifically excludes storage costs (unless required as part of the production process) from inventory cost. Import duties and direct labour are allowable cost components; variable production overhead is allocated on a systematic basis and included. Storage of finished goods is not a production cost — it is a period cost."
+    },
+    {
+      "id": "BA3-048",
+      "topic": "IAS/IFRS Basics",
+      "difficulty": "hard",
+      "question": "Which of the following best describes the enhancing qualitative characteristic of 'verifiability' in the IFRS Conceptual Framework?",
+      "options": {
+        "A": "Information that influences the economic decisions of users",
+        "B": "Information that different knowledgeable, independent observers could reach consensus is faithfully represented",
+        "C": "Information that enables users to compare financial statements across periods and entities",
+        "D": "Information provided within the decision-making timeframe of users"
+      },
+      "correct": "B",
+      "explanation": "Verifiability means that different informed, independent parties would reach broadly the same conclusion about the depiction — providing assurance of faithful representation. Comparability and timeliness are separate enhancing characteristics; influencing decisions describes the fundamental characteristic of relevance."
+    },
+    {
+      "id": "BA3-049",
+      "topic": "IAS/IFRS Basics",
+      "difficulty": "easy",
+      "question": "Under IAS 1, the statement of financial position must present assets and liabilities classified as:",
+      "options": {
+        "A": "Tangible and intangible",
+        "B": "Operating and financing",
+        "C": "Current and non-current",
+        "D": "Fixed and floating"
+      },
+      "correct": "C",
+      "explanation": "IAS 1 requires assets and liabilities to be classified as current or non-current on the face of the statement of financial position, unless a liquidity-based presentation provides more reliable information (e.g., for banks). The other classifications are not required by IAS 1."
+    },
+    {
+      "id": "BA3-050",
+      "topic": "IAS/IFRS Basics",
+      "difficulty": "medium",
+      "question": "Development costs may be capitalised under IAS 38 if:",
+      "options": {
+        "A": "Management decides the project is strategically important",
+        "B": "All six criteria in IAS 38 are met, including technical feasibility and intention to complete",
+        "C": "The project is in an early feasibility stage with uncertain outcomes",
+        "D": "The expected future revenues exceed the costs incurred to date"
+      },
+      "correct": "B",
+      "explanation": "IAS 38 sets out six specific criteria that must all be satisfied before development costs can be capitalised: technical feasibility, intention to complete, ability to use or sell, probable future economic benefits, adequate resources, and reliable cost measurement. The expected revenue exceeding costs is part of this analysis but alone is insufficient."
+    }
+  ],
+  "BA4": [
+    {
+      "id": "BA4-001",
+      "topic": "CIMA Code of Ethics",
+      "difficulty": "easy",
+      "question": "A management accountant is offered a significant personal gift by a supplier whose contract renewal they are currently evaluating. Which fundamental principle is most directly threatened?",
+      "options": {
+        "A": "Professional competence and due care",
+        "B": "Confidentiality",
+        "C": "Objectivity",
+        "D": "Professional behaviour"
+      },
+      "correct": "C",
+      "explanation": "Objectivity requires that professional judgement is not compromised by bias, conflicts of interest, or undue influence. A gift from a supplier whose contract is under review creates a self-interest threat that could impair the accountant's impartial judgement — the defining characteristic of an objectivity threat."
+    },
+    {
+      "id": "BA4-002",
+      "topic": "CIMA Code of Ethics",
+      "difficulty": "medium",
+      "question": "An accountant is asked by their manager to present financial results in a way that inflates reported performance. The accountant complies without question. Which principle is most clearly violated?",
+      "options": {
+        "A": "Confidentiality",
+        "B": "Professional competence and due care",
+        "C": "Integrity",
+        "D": "Professional behaviour"
+      },
+      "correct": "C",
+      "explanation": "Integrity requires being straightforward and honest in all professional relationships. Complying with a request to manipulate financial information breaches integrity directly, regardless of pressure from management. Professional behaviour concerns compliance with laws and regulations — a secondary concern here."
+    },
+    {
+      "id": "BA4-003",
+      "topic": "CIMA Code of Ethics",
+      "difficulty": "medium",
+      "question": "Which of the following best illustrates a self-review threat to objectivity?",
+      "options": {
+        "A": "An auditor who has been offered a job at the client being audited",
+        "B": "An accountant who prepared management accounts and is now asked to audit them",
+        "C": "A junior accountant pressured by a senior partner to approve an incorrect valuation",
+        "D": "An accountant publicly defending a tax position they advised the client to adopt"
+      },
+      "correct": "B",
+      "explanation": "A self-review threat arises when a professional is asked to evaluate or audit their own prior work — the risk being that they may not critically assess it. Option A is a self-interest threat (financial benefit from employment); option C is an intimidation threat; option D is an advocacy threat."
+    },
+    {
+      "id": "BA4-004",
+      "topic": "CIMA Code of Ethics",
+      "difficulty": "hard",
+      "question": "An accountant discovers that a long-standing client may be engaged in fraudulent activity but is reluctant to act due to concerns about damaging the relationship. Which threat and principle combination is most relevant?",
+      "options": {
+        "A": "Familiarity threat; objectivity and integrity",
+        "B": "Intimidation threat; professional behaviour",
+        "C": "Self-interest threat; professional competence and due care",
+        "D": "Advocacy threat; confidentiality"
+      },
+      "correct": "A",
+      "explanation": "A close, long-standing relationship creates a familiarity threat, where the accountant may be too sympathetic to the client's interests. The unwillingness to act on potential fraud breaches both objectivity (biased judgement due to the relationship) and integrity (failure to be honest and act on material wrongdoing)."
+    },
+    {
+      "id": "BA4-005",
+      "topic": "CIMA Code of Ethics",
+      "difficulty": "medium",
+      "question": "The principle of confidentiality requires a CIMA member to:",
+      "options": {
+        "A": "Never disclose any client information under any circumstances",
+        "B": "Protect confidential information acquired through professional relationships and not disclose it without proper authority or legal requirement",
+        "C": "Disclose all material information to any party that requests it",
+        "D": "Report all confidential information to CIMA as part of annual membership renewal"
+      },
+      "correct": "B",
+      "explanation": "Confidentiality does not create an absolute prohibition on disclosure — legal or regulatory requirements can override it. The duty is to not disclose information without proper authority unless there is a legal or professional right or duty to do so. Option A's 'never' is too absolute."
+    },
+    {
+      "id": "BA4-006",
+      "topic": "CIMA Code of Ethics",
+      "difficulty": "easy",
+      "question": "Which of the following is a safeguard created by the profession or regulation to reduce ethical threats?",
+      "options": {
+        "A": "A manager applying pressure to meet a reporting deadline",
+        "B": "Mandatory continuing professional development requirements",
+        "C": "A client offering a success fee contingent on a favourable audit outcome",
+        "D": "A close personal friendship between an auditor and the finance director"
+      },
+      "correct": "B",
+      "explanation": "CPD requirements are a profession-level safeguard designed to maintain competence and ethical awareness. Pressure, contingent fees, and personal relationships are threat factors that increase ethical risk, not safeguards that mitigate it."
+    },
+    {
+      "id": "BA4-007",
+      "topic": "CIMA Code of Ethics",
+      "difficulty": "medium",
+      "question": "An accountant is asked to prepare promotional materials advocating strongly for a client's position in a legal dispute. This creates which threat?",
+      "options": {
+        "A": "Self-interest threat",
+        "B": "Familiarity threat",
+        "C": "Advocacy threat",
+        "D": "Intimidation threat"
+      },
+      "correct": "C",
+      "explanation": "An advocacy threat arises when a professional promotes a client's or employer's position to the point where their objectivity may be compromised. Preparing persuasive promotional materials in support of a client's legal position exemplifies this threat directly."
+    },
+    {
+      "id": "BA4-008",
+      "topic": "CIMA Code of Ethics",
+      "difficulty": "hard",
+      "question": "An accountant suspects that their employer is engaged in money laundering. Under the CIMA Code and applicable law, the most appropriate first step is to:",
+      "options": {
+        "A": "Immediately resign to avoid personal liability",
+        "B": "Inform the client's external auditors directly",
+        "C": "Raise the matter internally through appropriate channels, such as a compliance officer, or make a Suspicious Activity Report if required by law",
+        "D": "Disclose the suspicion to the media to protect the public interest"
+      },
+      "correct": "C",
+      "explanation": "The CIMA ethical conflict resolution process prioritises internal escalation first — raising concerns with a line manager, audit committee, or compliance officer. Where legal obligations exist (such as money laundering reporting under POCA 2002), a Suspicious Activity Report (SAR) must be filed. Immediate resignation or media disclosure bypasses due process and may itself carry legal consequences."
+    },
+    {
+      "id": "BA4-009",
+      "topic": "Ethical Dilemmas and Conflict Resolution",
+      "difficulty": "medium",
+      "question": "An accountant is pressured by a senior manager to approve financial statements they believe contain material errors. The accountant's first step should be to:",
+      "options": {
+        "A": "Approve the statements to maintain employment and resolve the issue later",
+        "B": "Immediately report the matter to the external regulator",
+        "C": "Document the concern and raise it through internal channels, escalating to the audit committee if necessary",
+        "D": "Resign immediately and report to CIMA"
+      },
+      "correct": "C",
+      "explanation": "CIMA's ethical conflict resolution process requires internal escalation before external reporting: document the issue, raise with a supervisor, escalate to senior management or the audit committee if unresolved. Immediate external reporting bypasses available internal remedies and is premature at this stage."
+    },
+    {
+      "id": "BA4-010",
+      "topic": "Ethical Dilemmas and Conflict Resolution",
+      "difficulty": "hard",
+      "question": "An accountant discovers that their employer has been systematically overcharging a government client and all internal escalation routes have been exhausted. The most appropriate next step is:",
+      "options": {
+        "A": "Continue following management's instructions to protect their position",
+        "B": "Seek independent legal advice and consider external disclosure to the relevant regulatory authority",
+        "C": "Disclose the information publicly on social media to alert the government client directly",
+        "D": "Ignore the matter as it does not affect the company's published financial statements"
+      },
+      "correct": "B",
+      "explanation": "Once internal escalation is exhausted without resolution, seeking independent legal advice is the recommended step — it protects the accountant while assessing the appropriate disclosure route. External regulatory disclosure may be warranted but should be guided by legal advice to ensure proper protections (e.g., whistleblowing legislation) apply."
+    },
+    {
+      "id": "BA4-011",
+      "topic": "Ethical Dilemmas and Conflict Resolution",
+      "difficulty": "medium",
+      "question": "Whistleblowing in a professional context is best described as:",
+      "options": {
+        "A": "Disclosing commercially sensitive information to a competitor",
+        "B": "Raising concerns about wrongdoing in the public interest through appropriate channels",
+        "C": "Leaking financial data to the press without management approval",
+        "D": "Informing clients of a competitor firm's ethical breaches"
+      },
+      "correct": "B",
+      "explanation": "Whistleblowing involves disclosing information about wrongdoing (illegal acts, safety risks, cover-ups) in the public interest through lawful channels such as regulatory bodies or protected disclosure procedures. Leaking to the press without legal protection and disclosing competitor information are not whistleblowing in the professional sense."
+    },
+    {
+      "id": "BA4-012",
+      "topic": "Ethical Dilemmas and Conflict Resolution",
+      "difficulty": "medium",
+      "question": "A client instructs an accountant to structure a transaction in a technically legal way but whose sole purpose is to avoid tax in a manner contrary to the spirit of the law. How should the accountant respond?",
+      "options": {
+        "A": "Comply fully, as legal equals ethical",
+        "B": "Refuse to act on any tax-related instructions from this client",
+        "C": "Consider the ethical implications, advise the client of the risks, and decline if the arrangement conflicts with professional obligations",
+        "D": "Report the client to HMRC immediately without further discussion"
+      },
+      "correct": "C",
+      "explanation": "Technical legality does not automatically make an action ethical. CIMA members must apply professional judgement and may decline engagements that conflict with their professional values. Immediate reporting without further engagement is disproportionate; blanket refusal to assist with all tax matters is an overreaction."
+    },
+    {
+      "id": "BA4-013",
+      "topic": "Ethical Dilemmas and Conflict Resolution",
+      "difficulty": "easy",
+      "question": "Pressure from management to meet short-term earnings targets that could compromise the accuracy of financial reporting most directly creates which type of threat?",
+      "options": {
+        "A": "Familiarity threat",
+        "B": "Advocacy threat",
+        "C": "Intimidation threat",
+        "D": "Self-review threat"
+      },
+      "correct": "C",
+      "explanation": "An intimidation threat arises when a professional is deterred from acting objectively by actual or perceived pressure from management. Applying pressure to distort financial reporting to hit targets is a classic intimidation scenario. A familiarity threat relates to close personal relationships, not managerial pressure."
+    },
+    {
+      "id": "BA4-014",
+      "topic": "Ethical Dilemmas and Conflict Resolution",
+      "difficulty": "hard",
+      "question": "An accountant working in industry receives a request from their line manager to classify certain capital expenditures as revenue expenses to reduce the current tax charge. The accountant believes this is incorrect under applicable standards. What is the most appropriate action?",
+      "options": {
+        "A": "Comply — the manager is ultimately responsible for the accounts",
+        "B": "Refuse without explanation to maintain professional independence",
+        "C": "Raise the technical concern in writing with the manager, document the exchange, and escalate if the instruction is not withdrawn",
+        "D": "Correct the accounts without informing the manager and explain later"
+      },
+      "correct": "C",
+      "explanation": "The accountant should raise the technical and ethical objection formally, creating a documented record. If the instruction is not withdrawn, the matter should be escalated to a more senior level or the audit committee. Acting unilaterally without communication (option D) bypasses due process and may itself create problems."
+    },
+    {
+      "id": "BA4-015",
+      "topic": "Corporate Governance",
+      "difficulty": "easy",
+      "question": "The UK Corporate Governance Code operates on which compliance basis?",
+      "options": {
+        "A": "Mandatory compliance for all UK limited companies",
+        "B": "Comply or explain — companies must comply or explain why they have not",
+        "C": "Advisory only — compliance is entirely voluntary with no disclosure required",
+        "D": "Mandatory for companies with turnover above £50 million"
+      },
+      "correct": "B",
+      "explanation": "The UK Corporate Governance Code applies to UK premium-listed companies on a 'comply or explain' basis: companies must either follow the code provisions or publicly explain their reasons for deviation. This approach allows flexibility while maintaining transparency."
+    },
+    {
+      "id": "BA4-016",
+      "topic": "Corporate Governance",
+      "difficulty": "medium",
+      "question": "Which of the following is NOT a typical function of a board audit committee?",
+      "options": {
+        "A": "Monitoring the integrity of the financial statements",
+        "B": "Overseeing the relationship with the external auditor",
+        "C": "Setting the remuneration packages for executive directors",
+        "D": "Reviewing the effectiveness of internal audit and internal controls"
+      },
+      "correct": "C",
+      "explanation": "Remuneration packages for executive directors are set by the remuneration committee, not the audit committee. The audit committee's mandate covers financial reporting integrity, external audit oversight, internal controls, and internal audit — preserving independence between reward and scrutiny functions."
+    },
+    {
+      "id": "BA4-017",
+      "topic": "Corporate Governance",
+      "difficulty": "medium",
+      "question": "Agency theory, as applied to corporate governance, refers to the conflict between:",
+      "options": {
+        "A": "Central government and private sector businesses over tax policy",
+        "B": "Shareholders (principals) and directors (agents) whose interests may diverge",
+        "C": "Employees and management over working conditions and pay",
+        "D": "Creditors and shareholders over the distribution of company assets"
+      },
+      "correct": "B",
+      "explanation": "Agency theory describes the problem that arises when one party (the agent — directors) acts on behalf of another (the principal — shareholders) but may pursue their own interests rather than the principal's. Corporate governance mechanisms exist to align these interests and reduce agency costs."
+    },
+    {
+      "id": "BA4-018",
+      "topic": "Corporate Governance",
+      "difficulty": "hard",
+      "question": "Which of the following best explains why the roles of chairman and CEO should be held by different individuals?",
+      "options": {
+        "A": "Regulation requires a minimum of two executive directors on the board",
+        "B": "Separating the roles prevents any single individual from having unchecked power over both the running of the company and the oversight of its leadership",
+        "C": "The chairman must be an accountant; the CEO need not be",
+        "D": "The CEO leads the audit committee; the chairman leads the remuneration committee"
+      },
+      "correct": "B",
+      "explanation": "The separation principle is a core corporate governance control: the chairman leads the board (oversight function) while the CEO leads the executive management (operational function). Combining both in one person concentrates power and compromises the board's ability to hold management to account."
+    },
+    {
+      "id": "BA4-019",
+      "topic": "Corporate Governance",
+      "difficulty": "medium",
+      "question": "Non-executive directors (NEDs) primarily contribute to the board by:",
+      "options": {
+        "A": "Managing day-to-day operations and departmental budgets",
+        "B": "Providing independent oversight, scrutiny of management, and challenge to executive decisions",
+        "C": "Signing off on the company's annual tax returns and compliance filings",
+        "D": "Serving as the direct line managers of executive directors"
+      },
+      "correct": "B",
+      "explanation": "NEDs are not involved in daily operations — that is management's role. Their value lies in independent oversight and constructive challenge to executive decisions, drawing on external experience and perspective without the conflicts of interest that executives may have."
+    },
+    {
+      "id": "BA4-020",
+      "topic": "Corporate Governance",
+      "difficulty": "easy",
+      "question": "The Cadbury Report (1992) was primarily concerned with:",
+      "options": {
+        "A": "Executive pay and the link between remuneration and performance",
+        "B": "The financial aspects of corporate governance and the role of the board",
+        "C": "Environmental and social responsibility reporting for listed companies",
+        "D": "Institutional investor engagement with board strategy"
+      },
+      "correct": "B",
+      "explanation": "The Cadbury Report established the first formal UK corporate governance framework, addressing financial reporting, internal controls, and the composition and responsibilities of the board. Executive remuneration was the focus of the later Greenbury Report (1995)."
+    },
+    {
+      "id": "BA4-021",
+      "topic": "Corporate Governance",
+      "difficulty": "hard",
+      "question": "A company with a majority shareholder who controls 55% of the voting rights faces which specific corporate governance risk?",
+      "options": {
+        "A": "The board cannot achieve quorum without the majority shareholder's consent",
+        "B": "Minority shareholders may be unable to remove directors or oppose resolutions they disagree with",
+        "C": "The company must apply for a premium listing on the London Stock Exchange",
+        "D": "External audit of the financial statements is no longer required by law"
+      },
+      "correct": "B",
+      "explanation": "A controlling majority shareholder can pass ordinary and even special resolutions independently, meaning minority shareholders — however numerous — lack effective voting power to challenge board decisions or remove directors. This concentrates governance risk and is why independent NEDs and minority shareholder protections are particularly important in such structures."
+    },
+    {
+      "id": "BA4-022",
+      "topic": "Corporate Governance",
+      "difficulty": "medium",
+      "question": "The nomination committee of a board is primarily responsible for:",
+      "options": {
+        "A": "Setting executive and non-executive director pay",
+        "B": "Reviewing the performance of the internal audit function",
+        "C": "Recommending new board appointments and succession planning",
+        "D": "Approving the company's annual financial statements"
+      },
+      "correct": "C",
+      "explanation": "The nomination committee oversees board composition, succession planning, and the selection process for new directors. Pay is the remuneration committee's remit; financial statements are reviewed by the audit committee; the nomination committee does not conduct audit functions."
+    },
+    {
+      "id": "BA4-023",
+      "topic": "Internal Controls and Risk Management",
+      "difficulty": "easy",
+      "question": "Which of the following is a detective internal control?",
+      "options": {
+        "A": "Requiring dual authorisation before a payment is processed",
+        "B": "Restricting system access to authorised users via unique passwords",
+        "C": "Performing a bank reconciliation at the end of each month",
+        "D": "Separating the purchasing and payment functions between two staff members"
+      },
+      "correct": "C",
+      "explanation": "Detective controls identify errors or irregularities after they have occurred. A bank reconciliation compares records and catches discrepancies retrospectively. Dual authorisation and access restrictions are preventive controls; segregation of duties prevents errors from occurring in the first place."
+    },
+    {
+      "id": "BA4-024",
+      "topic": "Internal Controls and Risk Management",
+      "difficulty": "medium",
+      "question": "Segregation of duties is most effective at reducing which type of control risk?",
+      "options": {
+        "A": "Concentration of market risk in a single business unit",
+        "B": "Fraud or error by a single individual who controls an entire transaction process",
+        "C": "Liquidity risk arising from a mismatch of asset and liability maturities",
+        "D": "Strategic risk from entering a new and unfamiliar market"
+      },
+      "correct": "B",
+      "explanation": "Segregation of duties prevents one person from controlling all stages of a transaction (initiating, authorising, recording, and reconciling). Without segregation, a single employee can commit and conceal fraud or perpetuate unchecked errors. It is an operational/internal control, not a financial or strategic risk tool."
+    },
+    {
+      "id": "BA4-025",
+      "topic": "Internal Controls and Risk Management",
+      "difficulty": "medium",
+      "question": "Internal audit differs from external audit primarily because:",
+      "options": {
+        "A": "Internal audit is always conducted by qualified chartered accountants; external auditors need not be",
+        "B": "Internal audit reports to management and the board to improve controls; external audit provides independent assurance to shareholders on the financial statements",
+        "C": "External audit is optional for large listed companies; internal audit is mandatory",
+        "D": "Internal audit assesses financial statements; external audit reviews operational efficiency"
+      },
+      "correct": "B",
+      "explanation": "Internal audit serves management and the board — it improves risk management, controls, and governance processes. External audit provides independent assurance to shareholders and other external stakeholders that financial statements give a true and fair view. The audiences and objectives are fundamentally different."
+    },
+    {
+      "id": "BA4-026",
+      "topic": "Internal Controls and Risk Management",
+      "difficulty": "hard",
+      "question": "A risk matrix assesses risks based on which two dimensions?",
+      "options": {
+        "A": "Cost and time to implement the control",
+        "B": "Likelihood of occurrence and magnitude of impact",
+        "C": "Strategic importance and regulatory sensitivity",
+        "D": "Historical frequency and insured value"
+      },
+      "correct": "B",
+      "explanation": "A risk matrix (or heat map) plots risks across two axes: the probability (likelihood) that the risk event will occur and the impact (severity) if it does. Risks in the high-likelihood/high-impact quadrant receive priority attention and resource allocation."
+    },
+    {
+      "id": "BA4-027",
+      "topic": "Internal Controls and Risk Management",
+      "difficulty": "medium",
+      "question": "Which of the following is an example of a corrective internal control?",
+      "options": {
+        "A": "A system that prevents duplicate invoices from being entered",
+        "B": "An access control policy restricting sensitive data to senior staff only",
+        "C": "A disaster recovery plan that restores systems after a data breach",
+        "D": "Monthly variance analysis comparing actual to budgeted expenditure"
+      },
+      "correct": "C",
+      "explanation": "Corrective controls are activated after an error or incident to restore normal operating conditions. A disaster recovery plan corrects the effects of a breach. Preventing duplicate invoices is preventive; access restrictions are preventive; variance analysis is detective."
+    },
+    {
+      "id": "BA4-028",
+      "topic": "Internal Controls and Risk Management",
+      "difficulty": "hard",
+      "question": "A company identifies a risk of customer data theft due to inadequate IT security. It purchases a cyber insurance policy to transfer the financial consequences. This is an example of which risk response?",
+      "options": {
+        "A": "Risk avoidance",
+        "B": "Risk reduction",
+        "C": "Risk transfer",
+        "D": "Risk acceptance"
+      },
+      "correct": "C",
+      "explanation": "Insurance transfers the financial consequences of a risk to a third party (the insurer) without eliminating the underlying risk. Risk avoidance means not engaging in the activity; risk reduction involves implementing controls to lower likelihood or impact; risk acceptance means acknowledging and monitoring the risk without active mitigation."
+    },
+    {
+      "id": "BA4-029",
+      "topic": "Contract Law",
+      "difficulty": "easy",
+      "question": "Which of the following is NOT one of the essential elements required to form a valid contract?",
+      "options": {
+        "A": "Offer and acceptance",
+        "B": "Consideration",
+        "C": "Written documentation signed by both parties",
+        "D": "Intention to create legal relations"
+      },
+      "correct": "C",
+      "explanation": "The vast majority of contracts do not require written form to be legally binding in English law. The essential elements are offer, acceptance, consideration, intention to create legal relations, and capacity. Some specific contract types (land sales, guarantees) require writing, but this is not a general requirement."
+    },
+    {
+      "id": "BA4-030",
+      "topic": "Contract Law",
+      "difficulty": "medium",
+      "question": "A shop displays goods with price labels in the window. Under contract law, this is best described as:",
+      "options": {
+        "A": "A firm offer that the shop is legally bound to honour",
+        "B": "An invitation to treat — the customer makes the offer at the till",
+        "C": "A counter-offer that the customer may accept or reject",
+        "D": "A binding unilateral contract activated when the customer enters the shop"
+      },
+      "correct": "B",
+      "explanation": "Displaying goods (Pharmaceutical Society v Boots [1953]) constitutes an invitation to treat, not an offer. The customer makes the offer when presenting goods for purchase; the retailer accepts or rejects at the point of sale. This protects shops from being forced to sell at displayed prices, including mispriced items."
+    },
+    {
+      "id": "BA4-031",
+      "topic": "Contract Law",
+      "difficulty": "medium",
+      "question": "Alpha Ltd sends an order to Beta Ltd for 500 units at £20 each. Beta responds confirming the order but at £22 per unit. This response is best described as:",
+      "options": {
+        "A": "Acceptance of Alpha's offer, creating a binding contract at £20",
+        "B": "A counter-offer that terminates Alpha's original offer",
+        "C": "A request for information, leaving the original offer open",
+        "D": "Acceptance with a minor variation that courts will uphold at £20"
+      },
+      "correct": "B",
+      "explanation": "A counter-offer (Hyde v Wrench [1840]) rejects the original offer and replaces it with new terms. Alpha's original offer at £20 is terminated — they can no longer accept it. Only if Alpha accepts Beta's counter-offer at £22 is a contract formed. A request for information (a query without new terms) would leave the original offer open."
+    },
+    {
+      "id": "BA4-032",
+      "topic": "Contract Law",
+      "difficulty": "hard",
+      "question": "Under the postal rule, acceptance of a contractual offer by post takes effect:",
+      "options": {
+        "A": "When the offeror reads the letter of acceptance",
+        "B": "When the acceptance letter is delivered to the offeror's address",
+        "C": "When the acceptance letter is posted, even if lost in the mail",
+        "D": "When both parties have signed the written agreement"
+      },
+      "correct": "C",
+      "explanation": "The postal rule (Adams v Lindsell [1818]) provides that acceptance is complete at the moment of posting, not receipt. This protects offerees from offerors revoking after the letter is sent but before it arrives. The rule only applies where post is a reasonable means of acceptance — it does not apply to instantaneous communications."
+    },
+    {
+      "id": "BA4-033",
+      "topic": "Contract Law",
+      "difficulty": "medium",
+      "question": "Consideration in a contract must be:",
+      "options": {
+        "A": "Adequate in value — courts will set aside contracts where the price is too low",
+        "B": "Sufficient (of some value in the eyes of the law) but not necessarily adequate",
+        "C": "Provided in monetary form — non-monetary consideration is not enforceable",
+        "D": "Provided by a third party acting on behalf of one of the contracting parties"
+      },
+      "correct": "B",
+      "explanation": "English courts do not assess the adequacy of consideration — they will not reopen a contract because one party made a bad bargain. However, consideration must be sufficient: it must be real and have some economic value in law. Purely nominal or past consideration is not sufficient."
+    },
+    {
+      "id": "BA4-034",
+      "topic": "Contract Law",
+      "difficulty": "medium",
+      "question": "A company breaches a contract to supply machinery, causing the buyer to lose £40,000 in anticipated profits. The buyer sues for damages. Which principle governs the assessment of loss?",
+      "options": {
+        "A": "The buyer can claim all foreseeable and unforeseeable losses caused by the breach",
+        "B": "Damages aim to put the claimant in the position they would have been in had the contract been performed (expectation loss)",
+        "C": "The buyer can only recover the original contract price paid",
+        "D": "Damages are limited to the cost of finding an alternative supplier"
+      },
+      "correct": "B",
+      "explanation": "Contract damages are assessed on the expectation basis: placing the innocent party in the position they would have been had the contract been performed. Consequential losses (such as lost profits) are recoverable if they fall within the remoteness test established in Hadley v Baxendale — reasonably foreseeable at the time of contracting."
+    },
+    {
+      "id": "BA4-035",
+      "topic": "Contract Law",
+      "difficulty": "hard",
+      "question": "Which of the following scenarios would most likely allow a party to rescind a contract for misrepresentation?",
+      "options": {
+        "A": "One party made an error in calculating how profitable the deal would be for them",
+        "B": "The other party made a false statement of fact that induced them to enter the contract",
+        "C": "Market conditions changed significantly after the contract was signed",
+        "D": "The contract terms turned out to be less favourable than expected"
+      },
+      "correct": "B",
+      "explanation": "Rescission for misrepresentation requires a false statement of fact (not opinion, intention, or law) made by one party that induced the other to contract. A unilateral error in calculating profitability and post-contractual market changes are not misrepresentations. Merely receiving a bad deal does not alone give grounds for rescission."
+    },
+    {
+      "id": "BA4-036",
+      "topic": "Contract Law",
+      "difficulty": "easy",
+      "question": "Specific performance as a remedy for breach of contract is most appropriate when:",
+      "options": {
+        "A": "The breach is minor and damages would fully compensate the innocent party",
+        "B": "The subject matter is unique and damages would be an inadequate remedy",
+        "C": "Both parties agree in writing to waive their right to damages",
+        "D": "The contract involves a purely personal service obligation"
+      },
+      "correct": "B",
+      "explanation": "Specific performance compels the breaching party to perform their contractual obligation. Courts grant it when damages are inadequate — typically for unique goods or property where money cannot restore the claimant's position. It is not granted for personal service contracts (courts will not compel someone to work for a specific employer)."
+    },
+    {
+      "id": "BA4-037",
+      "topic": "Contract Law",
+      "difficulty": "medium",
+      "question": "Social or domestic arrangements (such as an agreement between friends to travel together) are generally not enforceable as contracts because they lack:",
+      "options": {
+        "A": "Consideration",
+        "B": "Offer and acceptance",
+        "C": "Intention to create legal relations",
+        "D": "Capacity of the parties"
+      },
+      "correct": "C",
+      "explanation": "English law presumes that social and domestic agreements do not carry an intention to create legally binding relations (Balfour v Balfour [1919]). Consideration and offer/acceptance may well exist in informal arrangements, but without the presumption of legal intent the agreement is unenforceable as a contract."
+    },
+    {
+      "id": "BA4-038",
+      "topic": "Employment Law",
+      "difficulty": "easy",
+      "question": "Which of the following best distinguishes an employee from an independent contractor?",
+      "options": {
+        "A": "Employees are always paid a fixed salary; contractors always work on a project basis",
+        "B": "Employees are subject to the employer's control over how work is performed; contractors typically have greater independence",
+        "C": "Contractors have more statutory employment rights than employees",
+        "D": "Employees may only work for one employer; contractors may work for multiple clients"
+      },
+      "correct": "B",
+      "explanation": "The central test for employment status is control: employees work under the direction and control of the employer regarding how, when, and where to work. Contractors typically have greater autonomy over how they deliver results. Multiple factors are considered (integration, economic reality, mutuality of obligation) — no single test is conclusive."
+    },
+    {
+      "id": "BA4-039",
+      "topic": "Employment Law",
+      "difficulty": "medium",
+      "question": "Under the Equality Act 2010, which of the following is a protected characteristic?",
+      "options": {
+        "A": "Seniority within an organisation",
+        "B": "Political affiliation",
+        "C": "Religion or belief",
+        "D": "Residential postcode"
+      },
+      "correct": "C",
+      "explanation": "The Equality Act 2010 lists nine protected characteristics: age, disability, gender reassignment, marriage/civil partnership, pregnancy/maternity, race, religion or belief, sex, and sexual orientation. Political affiliation and residential location are not protected characteristics."
+    },
+    {
+      "id": "BA4-040",
+      "topic": "Employment Law",
+      "difficulty": "medium",
+      "question": "An employee with three years of continuous employment is dismissed without a fair reason or proper procedure. This is most likely to be classified as:",
+      "options": {
+        "A": "Constructive dismissal",
+        "B": "Wrongful dismissal",
+        "C": "Unfair dismissal",
+        "D": "Redundancy"
+      },
+      "correct": "C",
+      "explanation": "Unfair dismissal (Employment Rights Act 1996) requires two years of continuous employment (qualifying period) and occurs when the dismissal lacks a fair reason (conduct, capability, redundancy, statutory bar, SOSR) or when a fair procedure was not followed. Wrongful dismissal is a breach of the employment contract (e.g., dismissal without notice) — a common distractor."
+    },
+    {
+      "id": "BA4-041",
+      "topic": "Employment Law",
+      "difficulty": "hard",
+      "question": "Constructive dismissal occurs when:",
+      "options": {
+        "A": "An employer dismisses an employee after a formal disciplinary procedure",
+        "B": "An employee resigns in response to a fundamental breach of contract by the employer",
+        "C": "An employer reduces an employee's role as part of a restructuring",
+        "D": "An employee is dismissed for poor performance after one year of service"
+      },
+      "correct": "B",
+      "explanation": "Constructive dismissal arises when an employee is forced to resign due to a fundamental (repudiatory) breach of their employment contract by the employer — for example, unilaterally reducing pay, humiliating treatment, or changing duties materially without consent. The employee must resign promptly and not 'affirm' the breach by continuing to work."
+    },
+    {
+      "id": "BA4-042",
+      "topic": "Employment Law",
+      "difficulty": "medium",
+      "question": "Redundancy payments in the UK are primarily calculated based on:",
+      "options": {
+        "A": "The employee's notice period and final month's salary",
+        "B": "Age, length of continuous service, and weekly gross pay up to a statutory cap",
+        "C": "The employer's revenue and profitability at the time of redundancy",
+        "D": "The employee's pension contributions and years until retirement"
+      },
+      "correct": "B",
+      "explanation": "Statutory redundancy pay is calculated using a formula: a number of weeks' pay for each year of service, multiplied by an age-related factor (0.5, 1, or 1.5 weeks per year). Weekly pay is subject to a statutory cap. Length of service and age are the key personal variables."
+    },
+    {
+      "id": "BA4-043",
+      "topic": "Employment Law",
+      "difficulty": "easy",
+      "question": "Under the Transfer of Undertakings (Protection of Employment) Regulations 2006 (TUPE), when a business is sold:",
+      "options": {
+        "A": "Existing employees may be dismissed by the purchaser without liability",
+        "B": "Employees' contracts transfer to the new employer on their existing terms and conditions",
+        "C": "Employees must renegotiate their terms of employment with the new employer before the transfer",
+        "D": "TUPE applies only if fewer than 50 employees are affected"
+      },
+      "correct": "B",
+      "explanation": "TUPE transfers employment contracts to the new employer automatically, preserving existing terms and conditions. Dismissal connected to the transfer is automatically unfair (with limited economic, technical, or organisational exceptions). TUPE applies regardless of the number of employees affected."
+    },
+    {
+      "id": "BA4-044",
+      "topic": "Company Law",
+      "difficulty": "easy",
+      "question": "What is the key legal significance of the concept of corporate personality established in Salomon v Salomon & Co Ltd [1897]?",
+      "options": {
+        "A": "Shareholders are personally liable for company debts up to the value of their initial investment",
+        "B": "A registered company is a legal person separate and distinct from its shareholders and directors",
+        "C": "Directors must hold a minimum share in the company they manage",
+        "D": "The company and its sole controlling shareholder are treated as one legal entity for tax purposes"
+      },
+      "correct": "B",
+      "explanation": "Salomon established that a company is a distinct legal entity — it can own property, enter contracts, and incur liabilities in its own name, entirely separate from its members. This separateness underpins limited liability: shareholders are not responsible for company debts beyond their paid capital."
+    },
+    {
+      "id": "BA4-045",
+      "topic": "Company Law",
+      "difficulty": "medium",
+      "question": "Under the Companies Act 2006, a director's duty to promote the success of the company (s.172) requires them to act in a way that is most likely to promote success for the benefit of:",
+      "options": {
+        "A": "The company's creditors in all circumstances",
+        "B": "The members (shareholders) as a whole, having regard to the long-term, employees, environment, and other stakeholders",
+        "C": "The senior management team and board of directors",
+        "D": "The government and regulatory authorities"
+      },
+      "correct": "B",
+      "explanation": "Section 172 of the Companies Act 2006 requires directors to act in good faith to promote the success of the company for the benefit of members as a whole, while having regard to long-term consequences, employee interests, community impact, and other factors. Creditors gain priority when insolvency is approaching — but this is a separate, overlapping duty."
+    },
+    {
+      "id": "BA4-046",
+      "topic": "Company Law",
+      "difficulty": "medium",
+      "question": "Which of the following is the key distinction between a private limited company (Ltd) and a public limited company (PLC)?",
+      "options": {
+        "A": "Only PLCs are required to pay corporation tax",
+        "B": "PLCs can offer shares to the general public; Ltds cannot",
+        "C": "Ltds must have a board of directors; PLCs may be managed by a sole director",
+        "D": "PLCs are exempt from filing accounts at Companies House"
+      },
+      "correct": "B",
+      "explanation": "PLCs may offer shares to the public and list on a stock exchange; private limited companies are restricted from doing so. Both entity types pay corporation tax, must file accounts at Companies House, and have comparable director requirements (PLCs need at least two directors and a qualified company secretary)."
+    },
+    {
+      "id": "BA4-047",
+      "topic": "Company Law",
+      "difficulty": "hard",
+      "question": "The 'corporate veil' may be lifted by courts in which of the following circumstances?",
+      "options": {
+        "A": "A shareholder wishes to claim corporate assets as their own",
+        "B": "A company group is publicly listed and its parent guarantees subsidiary debts",
+        "C": "The corporate structure has been used as a fraudulent device to evade legal obligations",
+        "D": "A company has fewer than ten shareholders and all are family members"
+      },
+      "correct": "C",
+      "explanation": "Courts will exceptionally look through the corporate veil — ignoring separate legal personality — when the corporate structure is used as a sham to perpetuate fraud or evade obligations (Prest v Petrodel Resources [2013]). The veil is not lifted merely because shareholders want to access company assets, or because a company is small or family-owned."
+    },
+    {
+      "id": "BA4-048",
+      "topic": "Company Law",
+      "difficulty": "medium",
+      "question": "A director who approves a transaction in which they have a material personal interest, without disclosing it to the board, is most likely in breach of which Companies Act 2006 duty?",
+      "options": {
+        "A": "Section 171 — duty to act within powers",
+        "B": "Section 172 — duty to promote the success of the company",
+        "C": "Section 175/177 — duty to avoid or declare conflicts of interest",
+        "D": "Section 174 — duty to exercise reasonable care, skill and diligence"
+      },
+      "correct": "C",
+      "explanation": "Sections 175 and 177 address conflicts of interest: directors must avoid situations in which they have a direct or indirect personal interest that conflicts with the company's interest, or declare any material interest in a proposed transaction to the board. Approval without disclosure breaches this duty directly."
+    },
+    {
+      "id": "BA4-049",
+      "topic": "Company Law",
+      "difficulty": "easy",
+      "question": "The principle of limited liability means that:",
+      "options": {
+        "A": "A company's losses are limited to its annual turnover",
+        "B": "Shareholders' personal assets are protected — their maximum loss is the amount paid or agreed to be paid for their shares",
+        "C": "Directors cannot be sued personally for any decisions made in their official capacity",
+        "D": "The company can only borrow up to the value of its share capital"
+      },
+      "correct": "B",
+      "explanation": "Limited liability protects shareholders' personal assets from company creditors. If the company fails, shareholders lose only what they invested (paid-up share capital). Directors retain personal liability for fraudulent or negligent acts, and the corporate veil may be lifted in extreme circumstances."
+    },
+    {
+      "id": "BA4-050",
+      "topic": "Company Law",
+      "difficulty": "hard",
+      "question": "Under the Companies Act 2006, which of the following transactions requires shareholder approval by ordinary resolution?",
+      "options": {
+        "A": "The board declaring an interim dividend",
+        "B": "A director entering a contract worth £10,000 within their delegated authority",
+        "C": "The removal of a director from the board before their term expires",
+        "D": "The board approving the company's annual budget"
+      },
+      "correct": "C",
+      "explanation": "Section 168 of the Companies Act 2006 allows shareholders to remove a director by ordinary resolution (simple majority), even if the director has a service contract — special notice of 28 days is required. Interim dividends, budget approval, and routine contracts within delegated authority are board-level decisions not requiring shareholder votes."
+    }
+  ]
+}

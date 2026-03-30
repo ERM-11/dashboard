@@ -1,0 +1,62 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-slate-950 text-slate-200;
+    font-family: 'DM Sans', system-ui, sans-serif;
+    /* Subtle deep blue radial glow at top — adds depth without distraction */
+    background-image:
+      radial-gradient(ellipse 90% 40% at 50% -5%, rgba(59, 130, 246, 0.07) 0%, transparent 70%),
+      radial-gradient(ellipse 60% 30% at 80% 100%, rgba(139, 92, 246, 0.04) 0%, transparent 60%);
+    /* iOS safe area insets for PWA standalone mode */
+    padding-top:    env(safe-area-inset-top);
+    padding-bottom: env(safe-area-inset-bottom);
+    padding-left:   env(safe-area-inset-left);
+    padding-right:  env(safe-area-inset-right);
+  }
+
+  /* Mono numbers and time displays */
+  .font-mono {
+    font-family: 'JetBrains Mono', ui-monospace, monospace;
+  }
+}
+
+/* ── Skeleton loader ───────────────────────────────────────── */
+@keyframes shimmer {
+  0%   { background-position: -200% 0; }
+  100% { background-position:  200% 0; }
+}
+
+.skeleton {
+  background: linear-gradient(90deg, #1e293b 25%, #2d3b4f 50%, #1e293b 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.6s ease-in-out infinite;
+  border-radius: 6px;
+}
+
+/* ── Reveal animation ──────────────────────────────────────── */
+@keyframes fadeScaleIn {
+  from { opacity: 0; transform: scale(0.88) translateY(4px); }
+  to   { opacity: 1; transform: scale(1)    translateY(0);   }
+}
+
+.animate-reveal {
+  animation: fadeScaleIn 0.28s cubic-bezier(0.34, 1.56, 0.64, 1) forwards;
+}
+
+/* ── Subtle widget card glow on hover ──────────────────────── */
+@keyframes softPulse {
+  0%, 100% { opacity: 0.6; }
+  50%       { opacity: 1;   }
+}
+
+/* ── Scrollbar hide utility ────────────────────────────────── */
+.scrollbar-none {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+.scrollbar-none::-webkit-scrollbar {
+  display: none;
+}
