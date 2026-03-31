@@ -66,7 +66,7 @@ export default function PollenWidget() {
     <div className="bg-slate-800 rounded-xl border border-slate-700 shadow-lg p-4 flex flex-col gap-3">
       <div className="flex items-center justify-between">
         <div className="flex items-center gap-2">
-          <span className="text-lg">🌿</span>
+          <span className="text-lg">🌸</span>
           <h2 className="font-semibold text-slate-100">Edinburgh Pollen</h2>
         </div>
         <button
